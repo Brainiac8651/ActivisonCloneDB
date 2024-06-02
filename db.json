@@ -11,6 +11,7 @@
       "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
       "studio": "Sledgehammer Games, Infinity Ward, Treyarch",
+      "type": "MATURE 17+",
       "rating": "Mature",
       "video": [ 
         { 
@@ -66,6 +67,7 @@
       "platforms": "PlayStation 5, XBOX Series X",
       "genre": "Platformer",
       "studio": "Toys for Bob",
+      "type": "EVERYONE 10+",
       "rating": "Everyone-10",
       "video": [ 
         { 
@@ -117,6 +119,7 @@
       "platforms": "PlayStation 5, XBOX Series X, PC",
       "genre": "First Person Shooter",
       "studio": "Infinity Ward",
+      "type": "MATURE 17+",
       "rating": "Mature",
       "video": [ 
         { 
@@ -173,6 +176,7 @@
       "platforms": "PlayStation 5, XBOX Series X, PC",
       "genre": "First Person Shooter",
       "studio": "Sledgehammer Games, Treyarch, Raven,High Moon, Beenox",
+      "type": "MATURE 17+",
       "rating": "Mature",
       "video": [ 
         { 
@@ -233,6 +237,7 @@
       "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
       "studio": "Treyarch, Raven, High Moon, Beenox",
+      "type": "MATURE 17+",
       "rating": "Mature",
       "video": [ 
         { 
@@ -294,6 +299,7 @@
       "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC, Nintendo Switch",
       "genre": "Platformer",
       "studio": "Toys for Bob, Beenox",
+      "type": "EVERYONE 10+",
       "rating": "Everyone-10",
       "video": [ 
         { 
