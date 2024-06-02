@@ -2,7 +2,367 @@
   "games": [
     {
       "id": 1,
-      "title": "Call Of Duty Morden Warfare III"
+      "slug": "call-of-duty-iii",
+      "name": "CALL OF DUTY MODERN WARFARE III",
+      "released": "11-10-2023",
+      "tba": "false",
+      "bg-game-cover": "https://store-images.s-microsoft.com/image/apps.35931.13519812510018364.92731e53-cab3-4df2-bd66-5285f516cb31.9505edd3-27da-4bed-96d9-7fc9a08f24d0",
+      "bg-game-banner": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw3/home/hero/jpt-hero-desktop.jpg",
+      "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "Sledgehammer Games, Infinity Ward, Treyarch",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/mHDEDDrGYvo"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/call-of-duty/modern-warfare-iii/reveal/screenshots/MW3_CP_REVEAL_08_BRANDED.png"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/call-of-duty/modern-warfare-iii/reveal/screenshots/MW3_CP_REVEAL_01_BRANDED.png"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/call-of-duty/modern-warfare-iii/reveal/screenshots/MW3_CP_REVEAL_03_BRANDED.png"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "title": "THE WAR HAS CHANGED",
+          "description": "In the direct sequel to the record-breaking Call of Duty®: Modern Warfare® II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before."
+        },
+        {
+          "id": 2,
+          "title": "Campaign",
+          "description": "Combat means making choices – different loadouts, different paths through the mission. In addition to the signature, cinematic Call of Duty® campaign missions, Modern Warfare® III introduces open combat missions that provide more player choice."
+        },
+        {
+          "id": 3,
+          "title": "Multiplayer",
+          "description": "All 16 launch maps from the original Modern Warfare® 2 (2009) have been modernized with new modes and gameplay features and will be available at launch to get everyone started, while over 12 all-new core 6v6 maps will fuel post-launch live seasons."
+        },
+        {
+          "id": 4,
+          "title": "Zombies",
+          "description": "For the first time, team up with other squads to survive and fight massive hordes of the undead in the largest Call of Duty® Zombies map ever. Modern Warfare® Zombies (MWZ) tells a new Treyarch Zombies story with missions, core Zombies features, and secrets to discover. Ready up for an open world PvE survival experience against some of the biggest enemies in Call of Duty® history.​"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "crash-team-rumble",
+      "name": "CRASH TEAM RUMBLE",
+      "released": "6-28-2023",
+      "tba": "false",
+      "bg-game-cover": "https://upload.wikimedia.org/wikipedia/en/7/7d/Crash_Team_Rumble_cover_art.jpg?20221211000132",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/crash-team-rumble/crash-team-rumble-hero.jpg",
+      "platforms": "PlayStation 5, XBOX Series X",
+      "genre": "Platformer",
+      "studio": "Toys for Bob",
+      "rating": "Everyone-10",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=becrLd9GOB4"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/lava/home/gallery/RMB_ArtisansArena_ENV_01.png"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/lava/home/gallery/RMB_ArtisansArena_ENV_02.png"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/lava/home/gallery/RMB_ArtisansArena_ENV_03.png"
+        },
+        {
+          "id": 4,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/lava/home/gallery/RMB_ArtisansArena_ENV_04.png"
+        },
+        {
+          "id": 5,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/lava/home/gallery/RMB_ArtisansArena_ENV_05.png"
+        },
+        {
+          "id": 6,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/lava/home/gallery/RMB_ArtisansArena_ENV_06.png"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "description": "CRASH TEAM RUMBLE IS A 4V4 TEAM-BASED COMPETITION WHERE THE ICONIC HEROES AND VILLAINS OF THE CRASH UNIVERSE BATTLE TO CAPTURE MORE WUMPA FRUIT THAN THE OTHER TO CLAIM VICTORY. EACH HERO HAS UNIQUE SKILLS AND ABILITIES TO STRATEGICALLY USE TO WORK TOGETHER TO BATTLE THE OPPOSING TEAM, DEFEND THEIR OWN WUMPA BANK, AND CAPTURE KEY POINTS AROUND THE MAP TO HELP THEIR TEAM. "
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "call-of-duty-modern-warefare-ii",
+      "name": "CALL OF DUTY®: MODERN WAREFARE II",
+      "released": "10-28-2022",
+      "tba": "false",
+      "bg-game-cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Call_of_Duty_Modern_Warfare_II_Key_Art.jpg/220px-Call_of_Duty_Modern_Warfare_II_Key_Art.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-hero.jpg",
+      "platforms": "PlayStation 5, XBOX Series X, PC",
+      "genre": "First Person Shooter",
+      "studio": "Infinity Ward",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=ztjfwecrY8E"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-screenshot-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-screenshot-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-screenshot-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "title": "THE ULTIMATE WEAPON IS TEAM",
+          "description": "New gameplay innovations. All-new gun handling. Advanced AI. Modern Warfare® II brings you a global campaign, immersive multiplayer combat and narrative-driven Special Ops."
+        },
+        {
+          "id": 2,
+          "title": "MODERN WARFARE II",
+          "description": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic operators of Task Force 141."
+        },
+        {
+          "id": 3,
+          "title": "FEATURES",
+          "description": "Infinity Ward brings fans state-of-the-art gameplay, with all-new gun handling, advanced AI system, a new Gunsmith and a suite of other gameplay and graphical innovations that elevate the franchise to new heights."
+        },
+        {
+          "id": 4,
+          "title": "LAUNCH CONTENT",
+          "description": "Modern Warfare: II will launch with a globe-trotting single-player campaign, immersive Multiplayer combat and a narrative-driven, co-op Special Ops experience.​",
+          "extra-text": "Modern Warfare II connects with the new Warzone™ experience, and with it, the evolution in Battle Royale with a brand-new play space and sandbox mode. Expect a massive calendar of free content post-launch featuring evolving gameplay with new maps, modes, seasonal events, community celebrations and more."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "call-of-duty-vanguard",
+      "name": "CALL OF DUTY®: VANGUARD",
+      "released": "11-05-2021",
+      "tba": "false",
+      "bg-game-cover": "https://cdn.mobygames.com/covers/10363047-call-of-duty-vanguard-xbox-one-front-cover.jpg",
+      "bg-game-banner": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9713815d-a982-4c05-b54d-98d1db569761.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "platforms": "PlayStation 5, XBOX Series X, PC",
+      "genre": "First Person Shooter",
+      "studio": "Sledgehammer Games, Treyarch, Raven,High Moon, Beenox",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=OQ1CwPhE8KQ"
+          }, 
+          {
+        "id": 2, 
+        "video2": "https://www.youtube.com/watch?v=xYUMA6NVy4g"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/vanguard/vanguard-screenshot-1.png"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/vanguard/vanguard-screenshot-2.png"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/vanguard/vanguard-screenshot-3.png"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "heading": "RISE ON EVERY FRONT",
+          "title": "CAMPAIGN",
+          "description": "The award-winning Call of Duty® series returns with Call of Duty®: Vanguard, in which players will experience influential battles of World War II as they fight for victory across the Eastern and Western Fronts of Europe, the Pacific, and North Africa.  "
+        },
+        {
+          "id": 2,
+          "title": "MULTIPLAYER",
+          "description": "Create and cement your legacy as Call of Duty’s signature Multiplayer experience launches an all-out assault on all fronts. Witness the rise of the Special Forces as players drop into new locales with authentic World War II loadouts."
+        },
+        {
+          "id": 3,
+          "title": "ZOMBIES",
+          "description": "Players will also be able to prove their mettle as they try to survive the relentless onslaught of the undead in a chilling new Zombies experience, developed by Treyarch Studios."
+        },
+        {
+          "id": 4,
+          "title": "WARZONE™",
+          "description": "all of Duty®: Vanguard will usher in a new and unparalleled Call of Duty®: Warzone™ integration post launch."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "call-of-duty-black-ops-cold-war",
+      "name": "CALL OF DUTY®: BLACK OPS COLD WAR",
+      "released": "11-13-2020",
+      "tba": "false",
+      "bg-game-cover": "https://image.api.playstation.com/vulcan/img/rnd/202111/2000/vDTX1PFjQfaEuC6LxpiFrljo.png",
+      "bg-game-banner": "https://images.squarespace-cdn.com/content/55ef0e29e4b099e22cdc9eea/1597993928700-KCV4KFK5U89O4OFOTDSM/cod-cold-war-banner.jpg?content-type=image%2Fjpeg",
+      "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "Treyarch, Raven, High Moon, Beenox",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=aTS9n_m7TW0"
+          }, 
+          {
+        "id": 2, 
+        "video2": "https://www.youtube.com/watch?v=ZQGXZ5auE2g"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/call-of-duty/black-ops-cold-war/season-four/screenshots/01-Jackal_CETME_Hijacked_WM.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/call-of-duty/black-ops-cold-war/season-four/screenshots/02-Salah_Jackal_Hijacked_WM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/call-of-duty/black-ops-cold-war/season-four/screenshots/03-Black_Knight_Highjacked_WM.png"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "heading": "“KNOW YOUR HISTORY OR BE DOOMED TO REPEAT IT”.",
+          "title": "CAMPAIGN",
+          "description": "Nothing is ever as it seems, as Raven Software brings a gripping single-player Campaign where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters, and more."
+        },
+        {
+          "id": 2,
+          "title": "MULTIPLAYER",
+          "description": "The next chapter of the iconic Black Ops Multiplayer experience is here, defined by signature combat, deniable operations, and a connected experience across platforms and generations."
+        },
+        {
+          "id": 3,
+          "title": "ZOMBIES",
+          "description": "Black Ops Cold War Zombies is set to take veterans and newcomers alike on a bold and terrifying journey that expands on an iconic part of the Call of Duty franchise. This co-op mode includes new ways to progress, classic Perks, and an arsenal of Cold War-era Zombies weaponry that will help survivors dominate the legions of undead."
+        },
+        {
+          "id": 4,
+          "title": "WARZONE™",
+          "description": "Black Ops Cold War will support and build on the hit, free-to-play experience Call of Duty: Warzone. Like every off-the-books clandestine operation, expect to uncover more secrets, and experience memorable moments as the Cold War heats up across Verdansk (and beyond) in the months and seasons ahead.",
+          "extra-text": "© 2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, MODERN WARFARE, CALL OF DUTY WARZONE and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "crash-bandicoot-4-its-about-time",
+      "name": "CRASH BANDICOOT™ 4: IT'S ABOUT TIME",
+      "released": "10-02-2020",
+      "tba": "false",
+      "bg-game-cover": "https://store-images.s-microsoft.com/image/apps.44037.14289021587791584.b9937e17-71a6-4b7c-9b62-a2203c893d9c.8aa52a71-f9d0-4eeb-893c-7dac7774cc9f?w=400&h=600",
+      "bg-game-banner": "https://xxboxnews.blob.core.windows.net/prod/sites/2/2020/06/Crash-4_Reveal_X1_Social_Banner_1920x1080_JPG.jpg",
+      "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC, Nintendo Switch",
+      "genre": "Platformer",
+      "studio": "Toys for Bob, Beenox",
+      "rating": "Everyone-10",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=U1qGQqOkZI8"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/crash-bandicoot/crash-bandicoot-4/next-gen-consoles/screenshots/Coco_Chase.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/crash-bandicoot/crash-bandicoot-4/next-gen-consoles/screenshots/Crash_Run.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/crash-bandicoot/crash-bandicoot-4/next-gen-consoles/screenshots/Neo-Menace.jpg"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "heading": "IT'S ABOUT TIME!",
+          "description": "LITERALLY.",
+          "extra-text": "THE DEVIOUS VILLAINS NEO CORTEX AND DR. N. TROPY HAVE FINALLY ESCAPED THEIR INTERDIMENSIONAL PRISON, LEAVING AN EVIL SCIENTIST SIZED HOLE IN THE UNIVERSE. NOW THEY’VE GOT THEIR EYES SET ON NOT ONLY SIMPLY CONQUERING THIS DIMENSION, BUT ALL DIMENSIONS, AND IT’S UP TO CRASH AND COCO TO SAVE THE DAY. N. SANITY BEACH IS WHERE CRASH’S ADVENTURE FIRST STARTED, AND WHERE IT BEGINS IN CRASH 4. BUT THERE HAVE DEFINITELY BEEN CHANGES SINCE PLAYERS FIRST SAW N. SANITY BEACH ALL THOSE YEARS AGO, AND THROUGHOUT CRASH 4 YOU’LL NOTICE CHANGES TO GAMEPLAY AND EVEN THE ART STYLE."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "tony-hawks-pro-skater-1-2",
+      "name": "TONY HAWK'S™ PRO SKATER™ 1 + 2",
+      "released": "09-04-2020",
+      "tba": "false",
+      "bg-game-cover": "https://cdn.mobygames.com/covers/9527527-tony-hawks-pro-skater-1-2-playstation-4-front-cover.jpg",
+      "bg-game-banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg?t=1696374771",
+      "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC, Nintendo, Steam",
+      "genre": "Action Sports",
+      "studio": "Vicarious Visions, n-Space",
+      "rating": "Teen",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=4paYDD0WIVY"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-1-2/thps-1-2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-1-2/thps-1-2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-1-2/thps-1-2-3.png"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "heading": "DROP BACK IN WITH THE MOST ICONIC SKATEBOARDING GAMES EVER MADE.",
+          "description": "PLAY TONY HAWK’S™ PRO SKATER™ & TONY HAWK’S™ PRO SKATER™ 2 IN ONE EPIC COLLECTION, REBUILT FROM THE GROUND UP IN INCREDIBLE HD. ALL THE PRO SKATERS, LEVELS AND TRICKS ARE BACK AND FULLY-REMASTERED, PLUS MORE."
+        }
+      ]
     }
   ]
 }
