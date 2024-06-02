@@ -378,6 +378,41 @@
       "type": "MATURE 17+",
       "title_poster": "https://i.postimg.cc/Yq4sMFb9/mwiii-horizontal-logo.png",
       "bg_poster": "https://i.postimg.cc/5NTN2wJk/jpt-playnow-desktop-bg-3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "call of duty warzone", 
+      "type": "MATURE 17+",
+      "title_poster": "https://i.postimg.cc/BQB9dH6K/warzone-logo-white-tm-atvi.png",
+      "bg_poster": "https://i.postimg.cc/Prjn32tH/S05-WZ-Hero-Desktop.jpg"
+    },
+    {
+      "id": 3,
+      "title": "call of duty modern warefare 2", 
+      "type": "MATURE 17+",
+      "title_poster": "https://i.postimg.cc/wBPShkWS/mw2-logo.png",
+      "bg_poster": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-hero.jpg"
+    },
+    {
+      "id": 4,
+      "title": "call of duty mobile", 
+      "type": "MATURE 17+",
+      "title_poster": "https://i.postimg.cc/TwDBQWFh/codm-logo.png",
+      "bg_poster": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/codm-hero.jpg"
+    },
+    {
+      "id": 5,
+      "title": "tony hawk's pro skater 1 + 2", 
+      "type": "TEEN",
+      "title_poster": "https://i.postimg.cc/Y0BZPCBR/thps-1-2-logo.png",
+      "bg_poster": "https://i.postimg.cc/2jnPZhnK/thps-1-2-hero.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Crash Team Rumble", 
+      "type": "EVERYONE 10+",
+      "title_poster": "https://i.postimg.cc/FsZ8PvWb/crash-team-rumble-logo-1.png",
+      "bg_poster": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/crash-team-rumble/crash-team-rumble-hero.jpg"
     }
   ]
 }
