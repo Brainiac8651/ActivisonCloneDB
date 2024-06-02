@@ -370,5 +370,14 @@
         }
       ]
     }
+  ],
+  "Trending": [
+    {
+      "id": 1,
+      "title": "call of duty modern warefare III", 
+      "type": "MATURE 17+",
+      "title_poster": "https://www.activision.com/content/dam/atvi/callof…d-touchui/mw3/home/hero/mwiii-horizontal-logo.png",
+      "bg_poster": "https://www.activision.com/content/dam/atvi/callof…al/play-now-module/mw3/jpt-playnow-desktop-bg.jpg"
+    }
   ]
 }
