@@ -369,6 +369,368 @@
           "description": "PLAY TONY HAWK’S™ PRO SKATER™ & TONY HAWK’S™ PRO SKATER™ 2 IN ONE EPIC COLLECTION, REBUILT FROM THE GROUND UP IN INCREDIBLE HD. ALL THE PRO SKATERS, LEVELS AND TRICKS ARE BACK AND FULLY-REMASTERED, PLUS MORE."
         }
       ]
+    },
+    {
+      "id": 8,
+      "slug": "call-of-duty-warzone",
+      "name": "CALL OF DUTY®: WARZONE",
+      "released": "3-10-2020",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/J0wfdy66/wz-boxart.jpg",
+      "bg-game-banner": "https://i.postimg.cc/B6FyDSSx/S05-WZ-Hero-Desktop-1.jpg",
+      "titleImg": "https://i.postimg.cc/hPsYV3B3/warzone-logo-white-tm-atvi-1.png",
+      "platforms": "PlayStation 5, XBOX Series X, Xbox One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "RAVEN",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+          }
+        ],
+        "description": [
+          {
+            "id": 1,
+            "heading": "DROP IN, ARMOR UP, LOOT FOR REWARDS, AND BATTLE YOUR WAY TO THE TOP.",
+            "description": "Welcome to Warzone, the massive free-to-play combat arena from the world of Modern Warfare®."
+          },
+          {
+            "id": 2,
+            "title": "Drop In",
+            "description": "Join forces with your friernds and jump into a battleground with up to 150 players."
+          },
+          {
+            "id": 3,
+            "title": "Loot For Rewards",
+            "description": "Discover supply boxes and complete contracts to build your arsenal and gain a tactical advantage."
+          },
+          {
+            "id": 4,
+            "title": "Battle Across Two Epic Modes",
+            "description": "Battle Across Two Epic Modes"
+          }
+        ]
+    },
+    {
+      "id": 9,
+      "slug": "call-of-duty-modern-warefare",
+      "name": "CALL OF DUTY®: MODERN WAREFARE",
+      "released": "10-25-2019",
+      "tba": "false",
+      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-boxart.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-hero.jpg",
+      "titleImg": "https://pouch.jumpshare.com/preview/9hBMpAzX9olfuHmebS41gfwhUxO3wmgFDGLlCs4DGJDu5Q2SPYkXiotQkvpxwRhyWavh9rrEqv5i1jEDxRQtelAz1dz6J8bIYqGR2pUjuK8",
+      "platforms": "XBOX One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "Infinity Ward",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=bH1lHCirCGI"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-screenshot-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-screenshot-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-screenshot-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "“PREPARE TO GO DARK, MODERN WARFARE® IS BACK!”",
+          "id": 1,
+          "title": "Drop In",
+          "description": "The stakes have never been higher as players take on the role of lethal Tier One operators in a heart-racing saga that will affect the global balance of power. Call of Duty®: Modern Warfare® engulfs fans in an incredibly raw, gritty, provocative narrative that brings unrivaled intensity and shines a light on the changing nature of modern war. Developed by the studio that started it all, Infinity Ward delivers an epic reimagining of the iconic Modern Warfare® series from the ground up. In the visceral and dramatic single-player story campaign, Call of Duty: Modern Warfare pushes boundaries and breaks rules the way only Modern Warfare can.",
+          "extra-text": "Players will engage in breathtaking covert operations alongside a diverse cast of international special forces and freedom fighters throughout iconic European cities and volatile expanses of the Middle East. And the story doesn't end there. In Call of Duty: Modern Warfare, players will be thrust into an immersive narrative spanning the entire game. Experience the ultimate online playground with classic multiplayer, or squad-up and play cooperatively in a collection of elite operations accessible to all skill levels."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "call-of-duty-mobile",
+      "name": "CALL OF DUTY®: MOBILE",
+      "released": "10-01-2019",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/8cL3rrfV/codm-boxart.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/codm-hero.jpg",
+      "titleImg": "https://i.postimg.cc/6pWSyq9D/codm-logo-1.png",
+      "platforms": "Android, iPad, iPhone",
+      "genre": "First Person Shooter",
+      "studio": "Tencent Games",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=n4b8FRUDNZo"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/cod-mobile-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/cod-mobile-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/cod-mobile-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "“ANSWER THE CALL OF DUTY®”",
+          "id": 1,
+          "description": "Official CALL OF DUTY® designed exclusively for mobile phones. Play iconic multiplayer maps and modes anytime, anywhere. 100 player Battle Royale battleground? Fast 5v5 team deathmatch? Scary Zombies action? Sniper vs sniper battle? Activision’s free-to-play CALL OF DUTY®: MOBILE has it all."
+        },
+        {
+          "id": 2,
+          "title": "FREE TO PLAY ON MOBILE",
+          "description": "Console quality HD gaming on your phone with customizable controls, voice and text chat, and thrilling 3D graphics and sound. Experience the thrill of the world’s most beloved shooter game, now on your phone for easy on-the-go fun."
+        },
+        {
+          "id": 3,
+          "title": "BELOVED GAME MODES AND MAPS",
+          "description": "Play iconic multiplayer maps from Call of Duty®: Black Ops and Call of Duty®: Modern Warfare®, available for the first time for free. Or squad up with friends in a brand new 100-person battle royale survival map. Join the fun with millions of players from all around world!"
+        },
+        {
+          "id": 4,
+          "title": "CUSTOMIZE YOUR UNIQUE LOADOUT",
+          "description": "As you play CALL OF DUTY®: MOBILE you will unlock and earn dozens of famous characters, weapons, outfits, scorestreaks and pieces of gear that can be used to customize your loadouts. Bring these loadouts into battle in thrilling PvP multiplayers modes like 5v5 team deathmatch, frontline, free for all, search and destroy, sniper battle, and battle royale."
+        },
+        {
+          "id": 5,
+          "title": "COMPETITIVE AND SOCIAL PLAY",
+          "description": "Use skill and strategy to battle to the top in competitive Ranked Mode or to win the most Clan prizes as you play with friends. Compete and fight against millions of friends and foes in this thrilling free to play multiplayer shooter."
+        },
+        {
+          "id": 6,
+          "title": "CHOICE AND COMPLEXITY",
+          "description": "Whether in gameplay, events, controls, or loadouts, CALL OF DUTY®: MOBILE offers complexity and depth in an ever-changing experience.",
+          "extra-text": "Have what it takes to compete with the best? Download CALL OF DUTY®: MOBILE now!"
+        }
+      ],
+      "notice": "Note: An internet connection is required to play this game.",
+      "disclaimer": "Please note this app contains social features that allow you to connect and play with friends and push notifications to inform you when exciting events or new content are taking place in the game. You can choose whether or not to utilize these features."
+    },
+    {
+      "id": 11,
+      "slug": "crash-team-racing-nitro-fueled",
+      "name": "CRASH® TEAM RACING NITRO-FUELED",
+      "released": "06-21-2019",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/QCsLmb3M/crash-team-racing-boxart.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/crash-team-racing/crash-team-racing-hero.jpg",
+      "titleImg": "https://i.postimg.cc/v8LwBprx/crash-team-racing-logo.png",
+      "platforms": "XBOX One, PlayStation 4, Nintendo Switch",
+      "genre": "Racing",
+      "studio": "Beenox",
+      "type": "EVERYONE 10+",
+      "rating": "Everyone-10",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/WgwA1gYDb5Q"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/ctr/gallery-assets/Screenshot-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/ctr/gallery-assets/Screenshot-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/ctr/gallery-assets/Screenshot-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "CRASH IS BACK IN THE DRIVER'S SEAT!",
+          "id": 1,
+          "description": "Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:"
+        },
+        {
+          "id": 2,
+          "description": "Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls"
+        },
+        {
+          "id": 3,
+          "description": "Power slide to glory in additional karts and tracks from beyond the original game"
+        },
+        {
+          "id": 4,
+          "description": "Race online with friends and Crash the competition with online leaderboards"
+        },
+        {
+          "id": 5,
+          "title": "GRAND PRIX FEATURES:"
+        }
+      ],
+      "notice": "Bonus seasonal content including new tracks, characters, items, and challenges.",
+      "disclaimer": "© 2020 Activision Publishing Inc. ACTIVISION, CRASH TEAM RACING, CTR, CRASH BANDICOOT and CRASH are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners."
+    },
+    {
+      "id": 12,
+      "slug": "sekiro-shadows-die-twice",
+      "name": "SEKIRO®: SHADOWS DIE TWICE",
+      "released": "03-22-2019",
+      "tba": "false",
+      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-boxart.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-hero.jpg",
+      "titleImg": "https://i.postimg.cc/y8WN0Vjb/sekiro-logo.png",
+      "platforms": "XBOX One, PlayStation 4",
+      "genre": "Action / Adventure",
+      "studio": "From Software",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://www.youtube.com/watch?v=rXMX4YJ7Lks"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-shadowsdietwice-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-shadowsdietwice-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-shadowsdietwice-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "TAKE REVENGE. RESTORE YOUR HONOR. KILL INGENIOUSLY.",
+          "id": 1,
+          "description": "In Sekiro: Shadows Die Twice you are the “one-armed wolf”, a disgraced and disfigured warrior rescued from the brink of death. Bound to protect a young lord who is the descendant of an ancient bloodline, you become the target of many vicious enemies, including the dangerous Ashina clan. When the young lord is captured, nothing will stop you on a perilous quest to regain your honor, not even death itself."
+        },
+        {
+          "id": 2,
+          "description": "Explore late 1500s Sengoku Japan, a brutal period of constant life and death conflict, as you come face to face with larger than life foes in a dark and twisted world. Unleash an arsenal of deadly prosthetic tools and powerful ninja abilities while you blend stealth, vertical traversal, and visceral head to head combat in a bloody confrontation. Take Revenge. Restore your honor. Kill Ingeniously."
+        }
+      ],
+      "disclaimer": "©2020 FromSoftware, Inc. All rights reserved. Published and distributed by Activision. ACTIVISION is a trademark of Activision Publishing Inc. All other trademarks and trade names are the properties of their respective owners. Bloodborne is a trademark of Sony Interactive Entertainment LLC. Dark Souls is a trademark of BANDAI NAMCO Entertainment Inc. Sony and Bandai Namco are not the publisher of SEKIRO: SHADOWS DIE TWICE. Activision has no affiliation with Bloodborne or Dark Souls."
+    },
+    {
+      "id": 13,
+      "slug": "spyro-reignited-trilogy",
+      "name": "SPYRO® REIGNITED TRILOGY",
+      "released": "11-13-2018",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/J0G1ZxcB/spyro-boxart.png",
+      "bg-game-banner": "https://i.postimg.cc/RhyvRtXp/spyro-hero.png",
+      "titleImg": "https://i.postimg.cc/VNmmDmWw/spyro-logo.png",
+      "platforms": "XBOX One, PlayStation 4, PC, Nintendo Switch, Microsoft Store",
+      "genre": "Platformer",
+      "studio": "Toys for Bob",
+      "type": "EVERYONE 10+",
+      "rating": "Everyone-10",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/xM5xUAuPEM8"
+        }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/spyro/reignited-trilogy/e3/screenshots/Spyro_hero_Treetops_019.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/spyro/reignited-trilogy/e3/screenshots/Spyro_Action_Treetops_04.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/spyro/reignited-trilogy/e3/concept-art/Toasty_Vista_Concept_05.jpg"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "heading": "SPYRO'S BACK!",
+          "description": "Meet Spyro, the adorable and mischievous little dragon on a GIGANTIC adventure. Take on an astonishing and completely 3D platform adventure game unlike any other! Take a wonderful journey as you glide, fly, roll, and frolic through fantasy worlds."
+        }
+      ],
+      "disclaimer": "© 2019 Activision Publishing, Inc. ACTIVISION, SPYRO, SPYRO REIGNITED TRILOGY, SPYRO THE DRAGON, SPYRO 2 RIPTO'S RAGE! and SPYRO YEAR OF THE DRAGON are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners."
+    },
+    {
+      "id": 14,
+      "slug": "call-of-duty-black-ops-iiii",
+      "name": "CALL OF DUTY®: BLACK OPS IIII",
+      "released": "10-12-2018",
+      "tba": "false",
+      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-4/bo4-hero-bg.jpg",
+      "bg-game-banner": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9713815d-a982-4c05-b54d-98d1db569761.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "titleImg": "https://i.postimg.cc/tCdXPsFk/bo4-logo.png",
+      "platforms": "XBOX One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "Treyarch",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/6kqe2ICmTxc"
+        }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-4/bo4-screenshot-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-4/bo4-screenshot-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-4/bo4-screenshot-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "id": 1,
+          "heading": "“A COLLISION COURSE BRINGING TOGETHER THE WORLDS OF BLACK OPS IN AN ALL-OUT SURVIVAL AND ELIMINATION EXPERIENCE.”",
+          "description": "Black Ops is back! Featuring gritty, grounded, fluid Multiplayer combat, the biggest Zombies offering ever with three full undead adventures at launch, and Blackout, where the universe of Black Ops comes to life in one massive battle royale experience featuring the largest map in Call of Duty history, signature Black Ops combat, characters, locations and weapons from the entire Black Ops series. Soldier up for all-out combat – tailor-made for the Black Ops community."
+        },
+        {
+          "id": 2,
+          "description": "Call of Duty®: Black Ops 4 Multiplayer raises the bar, delivering the most thrilling grounded combat experience yet with a focus on tactical gameplay and player choice. The game offers a new level of online action across a variety of new weaponry, maps and modes. For the first time, Multiplayer serves as the center of the game’s narrative, as players uncover a deeper connection to the role of each Specialist and their unique playstyles. With the return of the Pick 10 Create-a-Class system – and when combined with the new Gear category – gameplay becomes more customizable than ever, giving players choice over how to power up their Specialists. Combined with the ability to unlock devastating Scorestreaks along the way, players will have the opportunity to be dangerous alone, or unstoppable as a team."
+        },
+        {
+          "id": 3,
+          "description": "Call of Duty®: Black Ops 4 delivers the biggest Day 1 Zombies offering ever with three full experiences at launch, IX, Voyage of Despair, and Blood of the Dead. With an exciting new adventure and a brand-new cast of characters, Call of Duty: Black Ops 4’s Zombies will feature the deep gameplay and easter eggs that its fans have come to expect."
+        },
+        {
+          "id": 4,
+          "description": "In Blackout, Black Ops comes to life in one massive battle royale experience, combining Black Ops signature combat and the biggest map in Call of Duty history. Play as fan-favorite characters and battle through iconic settings from the Black Ops universe. It’s a collision course bringing together the worlds of Black Ops in an all-out survival and elimination experience featuring weapons; equipment; land, sea, and air vehicles; RC-XDs; traps; and even Zombies in an experience that is uniquely Black Ops."
+        }
+      ],
+      "disclaimer": " © 2020 Activision Publishing, Inc. ACTIVISION and CALL OF DUTY are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners. By downloading, installing or using this App, you agree to Activision's privacy policy and terms of us, as may be updated by Activision from time to time."
     }
   ],
   "Trending": [
