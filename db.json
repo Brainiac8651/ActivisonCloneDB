@@ -348,6 +348,7 @@
       "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC, Nintendo, Steam",
       "genre": "Action Sports",
       "studio": "Vicarious Visions, n-Space",
+      "type": "TEEN",
       "rating": "Teen",
       "video": [ 
         { 
@@ -383,8 +384,8 @@
       "name": "CALL OF DUTY®: WARZONE",
       "released": "3-10-2020",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/J0wfdy66/wz-boxart.jpg",
-      "bg-game-banner": "https://i.postimg.cc/B6FyDSSx/S05-WZ-Hero-Desktop-1.jpg",
+      "bg_game_cover": "https://i.postimg.cc/J0wfdy66/wz-boxart.jpg",
+      "bg_game_banner": "https://i.postimg.cc/B6FyDSSx/S05-WZ-Hero-Desktop-1.jpg",
       "titleImg": "https://i.postimg.cc/hPsYV3B3/warzone-logo-white-tm-atvi-1.png",
       "platforms": "PlayStation 5, XBOX Series X, Xbox One, PlayStation 4, PC",
       "genre": "First Person Shooter",
@@ -394,7 +395,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+          "video": "https://www.youtube.com/watch?v=0E44DClsX5Q"
           }
         ],
         "description": [
@@ -426,8 +427,8 @@
       "name": "CALL OF DUTY®: MODERN WAREFARE",
       "released": "10-25-2019",
       "tba": "false",
-      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-boxart.jpg",
-      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-hero.jpg",
+      "bg_game_cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-boxart.jpg",
+      "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-hero.jpg",
       "titleImg": "https://pouch.jumpshare.com/preview/9hBMpAzX9olfuHmebS41gfwhUxO3wmgFDGLlCs4DGJDu5Q2SPYkXiotQkvpxwRhyWavh9rrEqv5i1jEDxRQtelAz1dz6J8bIYqGR2pUjuK8",
       "platforms": "XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
@@ -437,7 +438,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=bH1lHCirCGI"
+          "video": "https://www.youtube.com/watch?v=bH1lHCirCGI"
           }
         ],
       "screenshots": [
@@ -470,8 +471,8 @@
       "name": "CALL OF DUTY®: MOBILE",
       "released": "10-01-2019",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/8cL3rrfV/codm-boxart.jpg",
-      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/codm-hero.jpg",
+      "bg_game_cover": "https://i.postimg.cc/8cL3rrfV/codm-boxart.jpg",
+      "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/codm-hero.jpg",
       "titleImg": "https://i.postimg.cc/6pWSyq9D/codm-logo-1.png",
       "platforms": "Android, iPad, iPhone",
       "genre": "First Person Shooter",
@@ -481,7 +482,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=n4b8FRUDNZo"
+          "video": "https://www.youtube.com/watch?v=n4b8FRUDNZo"
           }
         ],
       "screenshots": [
@@ -540,8 +541,8 @@
       "name": "CRASH® TEAM RACING NITRO-FUELED",
       "released": "06-21-2019",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/QCsLmb3M/crash-team-racing-boxart.jpg",
-      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/crash-team-racing/crash-team-racing-hero.jpg",
+      "bg_game_cover": "https://i.postimg.cc/QCsLmb3M/crash-team-racing-boxart.jpg",
+      "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/crash-team-racing/crash-team-racing-hero.jpg",
       "titleImg": "https://i.postimg.cc/v8LwBprx/crash-team-racing-logo.png",
       "platforms": "XBOX One, PlayStation 4, Nintendo Switch",
       "genre": "Racing",
@@ -551,7 +552,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/WgwA1gYDb5Q"
+          "video": "https://youtu.be/WgwA1gYDb5Q"
           }
         ],
       "screenshots": [
@@ -600,8 +601,8 @@
       "name": "SEKIRO®: SHADOWS DIE TWICE",
       "released": "03-22-2019",
       "tba": "false",
-      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-boxart.jpg",
-      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-hero.jpg",
+      "bg_game_cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-boxart.jpg",
+      "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-hero.jpg",
       "titleImg": "https://i.postimg.cc/y8WN0Vjb/sekiro-logo.png",
       "platforms": "XBOX One, PlayStation 4",
       "genre": "Action / Adventure",
@@ -611,7 +612,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=rXMX4YJ7Lks"
+          "video": "https://www.youtube.com/watch?v=rXMX4YJ7Lks"
           }
         ],
       "screenshots": [
@@ -647,8 +648,8 @@
       "name": "SPYRO® REIGNITED TRILOGY",
       "released": "11-13-2018",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/J0G1ZxcB/spyro-boxart.png",
-      "bg-game-banner": "https://i.postimg.cc/RhyvRtXp/spyro-hero.png",
+      "bg_game_cover": "https://i.postimg.cc/J0G1ZxcB/spyro-boxart.png",
+      "bg_game_banner": "https://i.postimg.cc/RhyvRtXp/spyro-hero.png",
       "titleImg": "https://i.postimg.cc/VNmmDmWw/spyro-logo.png",
       "platforms": "XBOX One, PlayStation 4, PC, Nintendo Switch, Microsoft Store",
       "genre": "Platformer",
@@ -658,7 +659,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/xM5xUAuPEM8"
+          "video": "https://youtu.be/xM5xUAuPEM8"
         }
         ],
       "screenshots": [
@@ -690,8 +691,8 @@
       "name": "CALL OF DUTY®: BLACK OPS IIII",
       "released": "10-12-2018",
       "tba": "false",
-      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-4/bo4-hero-bg.jpg",
-      "bg-game-banner": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9713815d-a982-4c05-b54d-98d1db569761.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "bg_game_cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-4/bo4-hero-bg.jpg",
+      "bg_game_banner": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9713815d-a982-4c05-b54d-98d1db569761.__CR0,0,970,300_PT0_SX970_V1___.jpg",
       "titleImg": "https://i.postimg.cc/tCdXPsFk/bo4-logo.png",
       "platforms": "XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
@@ -701,7 +702,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/6kqe2ICmTxc"
+          "video": "https://youtu.be/6kqe2ICmTxc"
         }
         ],
       "screenshots": [
