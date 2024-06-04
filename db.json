@@ -731,6 +731,554 @@
         }
       ],
       "disclaimer": " © 2020 Activision Publishing, Inc. ACTIVISION and CALL OF DUTY are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners. By downloading, installing or using this App, you agree to Activision's privacy policy and terms of us, as may be updated by Activision from time to time."
+    },
+    {
+      "id": 15,
+      "slug": "call-of-duty-wwii",
+      "name": "CALL OF DUTY®: WWIII",
+      "released": "11-03-2017",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/3wgZx6rw/wwii-boxart.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/wwii/wwii-hero.jpg",
+      "titleImg": "https://i.postimg.cc/bJp9DTd9/cod-wwii-logo.png",
+      "platforms": "XBOX One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "Sledgehammer Games",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/D4Q_XYVescc"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/wwii/wwii-screenshot-1.png"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/wwii/wwii-screenshot-2.png"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/wwii/wwii-screenshot-3.png"
+        }
+      ],
+      "description": [
+        {
+          "heading": "“NO SACRIFICE TOO GREAT”",
+          "id": 1,
+          "description": "Call of Duty® returns to its historical roots with Call of Duty®: World War II, a blockbuster experience from Sledgehammer Games. From the beaches of Normandy to the Hürtgen Forest, experience a dramatic story highlighting some of the most dramatic and iconic moments of World War II as a young soldier who is facing the unforgiving reality of war alongside his brothers in arms."
+        }
+      ],
+      "disclaimer": "© 2018 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and CALL OF DUTY WWII are trademarks of Activision Publishing, Inc."
+    },
+    {
+      "id": 15,
+      "slug": "crash-bandicoot-n-sane-trilogy",
+      "name": "CRASH BANDICOOT N. SANE TRILOGY",
+      "released": "06-30-2017",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/NF4Xhqx3/crash-nsane-trilogy-boxart.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/nsane-trilogy/nsane-trilogy-banner.webp",
+      "titleImg": "https://i.postimg.cc/g0Z6z6Dq/crash-nsane-trilogy-logo.png",
+      "platforms": "XBOX One, PlayStation 4, PC, Nintendo Switch",
+      "genre": "Action / Adventure",
+      "studio": "Vicarious Visions",
+      "type": "EVERYONE 10+",
+      "rating": "Everyone-10",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/4fbO2-egZ3U"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/crash-bandicoot/n-sane-trilogy/other/screenshots/3740_18_068_s20170510-0125.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/crash-bandicoot/n-sane-trilogy/other/screenshots/Crash_Bandicoot_N._Sane_Trilogy_Multi_Platform_Reveal_09.png"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/crash-bandicoot/n-sane-trilogy/other/screenshots/Crash_FT02_FINAL.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "CRASH IS BACK!",
+          "id": 1,
+          "description": "Your favorite marsupial, Crash Bandicoot®, is back and he’s enhanced, entranced & ready-to-dance! Now you can experience Crash Brandicoot like never before in fully-remastered HD graphical glory."
+        },
+        {
+          "id": 2,
+          "description": "Take on the epic challenges and adventures of the three games that started it all, Crash Bandicoot®, Crash Bandicoot® 2: Cortex Strikes Back and Crash Bandicoot® 3: Warped."
+        },
+        {
+          "id": 3,
+          "description": "•<b>Crash Bandicoot</b> Dr. Neo Cortex has a plan to take over the world, and he wants to create genetically engineered animals to do his bidding. Only you can help Crash save the animals, save his girlfriend, and foil Dr. Cortex’s plot."
+        },
+        {
+          "id": 4,
+          "description": "•<b>Crash Bandicoot 2: Cortex Strikes Back</b> The evil Dr. Neo Cortex is back…out this time to save the world? And he’s asking for help from his arch nemesis, Crash Bandicoot? Is this just a conniving plan to lure Crash into Cortex’s next dastardly experiment? Can Crash win again or will he join Cortex’s mindless zoo?"
+        },
+        {
+          "id": 5,
+          "description": "•<b>Crash Bandicoot 3: Warped</b> It’s a Whole New Time-Traveling Adventure! All new-style gameplay action – scuba dive, ride a motorcycle, a baby T-Rex, go free-roaming airborne in a plane, and more! More Action. More Fun. More Puzzles and Secret Levels."
+        }
+      ],
+      "disclaimer": "<i>© 2020 Activision Publishing, Inc. ACTIVISION and CRASH BANDICOOT are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners.</i>"
+    },
+    {
+      "id": 16,
+      "slug": "call-of-duty-inifinite-warefare",
+      "name": "CALL OF DUTY®: INFINITE WAREFARE",
+      "released": "11-04-2016",
+      "tba": "false",
+      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/infinite-warfare/iw-boxart.jpg",
+      "bg-game-banner": "https://i.postimg.cc/XqpGpHSh/iw-hero.jpg",
+      "titleImg": "https://i.postimg.cc/k4jRMrZK/iw-logo.png",
+      "platforms": "XBOX One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "Infinity Ward",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/EeF3UTkCoxY"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/infinite-warfare/iw-screenshot-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/infinite-warfare/iw-screenshot-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/infinite-warfare/iw-screenshot-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "EXPERIENCE THE FUTURE OF WARFARE",
+          "id": 1,
+          "description": "Call of Duty®: Infinite Warfare returns to the roots of the franchise where large-scale war and cinematic, immersive military storytelling take center stage. Prepare for a gripping war story in which players fight against the Settlement Defense Front to defend our very way of life."
+        },
+        {
+          "id": 2,
+          "description": "Call of Duty®: Infinite Warfare delivers something for every Call of Duty fan with three unique game modes:"
+        },
+        {
+          "id": 3,
+          "description": "•<b>Campaign: </b>Return to the gritty, large-scale war roots of the franchise, while boldly looking ahead."
+        },
+        {
+          "id": 4,
+          "description": "•<b>Multiplayer:</b> Delivers the future of warfare, with many new gameplay innovations."
+        },
+        {
+          "id": 5,
+          "description": "•<b>Zombies:</b> A wild ride through a new storyline with unique gameplay features and mechanics."
+        },
+        {
+          "id": 6,
+          "description": "DLC1: SABOTAGE AVAILABLE NOW ON PS4"
+        },
+        {
+          "id": 7,
+          "description": "•<b>Sabotage,</b> the first DLC pack for Call of Duty®: Infinite Warfare, includes the next terrifying Zombies installment: Rave in the Redwoods plus four unique multiplayer environments. Play DLC map packs 30 days early on PS4."
+        }
+      ],
+      "disclaimer": "<i>© 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY ADVANCED WARFARE, CALL OF DUTY MODERN WARFARE, and CALL OF DUTY INFINITE WARFARE are trademarks of Activision Publishing, Inc.</i>"
+    },
+    {
+      "id": 17,
+      "slug": "call-of-duty-modern-warefare-remastered",
+      "name": "CALL OF DUTY®: MODERN WAREFARE REMASTERED",
+      "released": "11-04-2016",
+      "tba": "false",
+      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/mwr-boxart.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/mwr-hero.jpg",
+      "titleImg": "https://i.postimg.cc/sDKjtPkG/mwr-logo.png",
+      "platforms": "XBOX One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "Infinity Ward",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/l-eMi1xJ2dM"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/cod-modernwarware-remastered-3.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/cod-modernwarware-remastered-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/cod-modernwarware-remastered-1.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "A CLASSIC REMASTERED",
+          "id": 1,
+          "description": "One of the most critically acclaimed games in history. Call of Duty®4:Modern Warfare®, is back, remastered in true high-definition, featuring enhanced textures, rendering, high-dynamic range lighting, and much more to bring a new generation experience to fans."
+        },
+        {
+          "id": 2,
+          "description": "Call of Duty®: Infinite Warfare delivers something for every Call of Duty fan with three unique game modes:"
+        },
+        {
+          "id": 3,
+          "description": "•<b>Campaign:</b> One of the most iconic campaigns of all time includes fan favorite missions such as “All Ghillied Up,” “Charlie Don’t Surf,” and “Crew Expendable.”"
+        },
+        {
+          "id": 4,
+          "description": "•<b>Multiplayer:</b> Team up with friends in customizable, classic multiplayer action on 10 fan favorites maps such as “Crash,” “Backlot,” and “Crossfire.”"
+        }
+      ],
+      "disclaimer": "<i>© 2017 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY ADVANCED WARFARE, CALL OF DUTY MODERN WARFARE, and CALL OF DUTY INFINITE WARFARE are trademarks of Activision Publishing, Inc.</i>"
+    },
+    {
+      "id": 18,
+      "slug": "skylanders-imaginators",
+      "name": "SKYLANDERS-IMAGINATORS",
+      "released": "10-16-2016",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/C14Xz7Hj/skylanders-imaginators-boxart.jpg",
+      "bg-game-banner": "https://i.postimg.cc/RhsYT0Yh/imaginators-hero.jpg",
+      "titleImg": "https://i.postimg.cc/y6v2KfNK/skylanders-imaginators-logo.png",
+      "platforms": "XBOX 360, XBOX One, PlayStation 3, PlayStation 4, Wii U, Nintendo Switch",
+      "genre": "Action / Adventure",
+      "studio": "Toys For Bob",
+      "type": "EVERYONE 10+",
+      "rating": "Everyone-10",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/8RsVPm4Hby0"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/skylanders/imaginators/imaginators-1.webp"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/skylanders/imaginators/imaginators-3.webp"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/skylanders/imaginators/imaginators-5.webp"
+        }
+      ],
+      "description": [
+        {
+          "heading": "UNLEASH IMAGINATION",
+          "id": 1,
+          "description": "Kaos has discovered the ancient power of Mind Magic and is using it to create an unstoppable army of Doomlanders! Eon is calling upon all Portal Masters and Skylands’ greatest mystic warriors, the Senseis, to stop Kaos and his minions. Now, you must use the power of your imagination to create your own Skylanders and battle alongside the almighty Senseis in the ultimate adventure to save Skylands."
+        },
+        {
+          "id": 2,
+          "description": "<h1><b>Embark on an Epic New Adventure</b></h1>"
+        },
+        {
+          "id": 3,
+          "description": "• Use the Imaginite Creation Crystals to Create Your Own Skylanders"
+        },
+        {
+          "id": 4,
+          "description": "• Play with Sensei Skylanders: the Ultimate Masters of the Almighty Sky-Chi Powers"
+        },
+        {
+          "id": 5,
+          "description": "• Battle to Save Skylands with the Sensei and Imaginator Skylanders"
+        },
+        {
+          "id": 6,
+          "description": "• Use 10 Different Battle Class Types to Defeat Kaos and his Minions"
+        },
+        {
+          "id": 7,
+          "description": "• Play With Friends in COOP and Head-to-Head Racing Conquer All-New Side quests & Mini-games"
+        },
+        {
+          "id": 8,
+          "description": "<h1><b>Infinite Possibilities to Create with the Skylanders Imaginators Starter Pack:</b></h1>"
+        },
+        {
+          "id": 9,
+          "description": "• Skylanders Imaginators Video Game"
+        },
+        {
+          "id": 10,
+          "description": "• Portal of Power®"
+        },
+        {
+          "id": 11,
+          "description": "• 2 Skylanders Sensei Figures Master King Pen and Golden Queen"
+        },
+        {
+          "id": 12,
+          "description": "• 1 Imaginite Creation Crystal – Fire Creation Crystal"
+        },
+        {
+          "id": 13,
+          "description": "• 1 Sticker Sheet"
+        },
+        {
+          "id": 14,
+          "description": "• Collection Poster featuring the complete set of Skylanders Imaginator Figures"
+        }
+      ],
+      "disclaimer": "© 2022 Activision Publishing, Inc. ACTIVISION, SKYLANDERS, and SKYLANDERS IMAGINATORS are trademarks of Activision Publishing, Inc."
+    },
+    {
+      "id": 19,
+      "slug": "call-of-duty-black-opsiii",
+      "name": "CALL OF DUTY®: BLACK OPS III",
+      "released": "11-06-2015",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/v8tQy51y/bo3-boxart.png",
+      "bg-game-banner": "https://i.postimg.cc/zXd8b5SP/bo3-hero.jpg",
+      "titleImg": "https://i.postimg.cc/vZcM5j08/bo3-logo.png",
+      "platforms": "XBOX One, PlayStation 4, PC",
+      "genre": "First Person Shooter",
+      "studio": "Treyarch",
+      "type": "MATURE 17+",
+      "rating": "Mature",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/vIg5dAeudvQ"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-3/bo3-screenshot-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-3/bo3-screenshot-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-3/bo3-screenshot-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "HOW FAR WILL YOU GO?",
+          "id": 1,
+          "description": "Call of Duty®: Black Ops 3 deploys its players into a future where bio-technology has enabled a new breed of Black Ops soldier. Players are connected to the intelligence grid and their fellow operatives during battle. In a world more divided than ever, this elite squad consists of men and women who have enhanced their combat capabilities to fight faster, stronger, and smarter. Every soldier has to make difficult decisions and visit dark places in this engaging, gritty narrative."
+        },
+        {
+          "id": 2,
+          "description": "• <b>DLC  1: Awakening:</b> Go guns up in the world of Black Ops III Multiplayer, with 4 new maps, including “Skyjacked,” a re-imagining of the fan-favorite, Call of Duty®: Black Ops II multiplayer map “Hijacked.” The latest installment of Zombies picks up where The Giant left off, with the Origins characters heading to Der Eisendrache on a mission to stop the Zombie Apocalypse."
+        },
+        {
+          "id": 3,
+          "description": "• <b>DLC 2: Eclipse:</b> Fight horrors beyond belief in this Origins Zombies experience, where players battle through 4 action-packed multiplayer maps. “Knockout” sets the stage for a bloody, gun-filled Kung Fu tournament. “Rift” heads to the core of a harsh futuristic military complex high above an active caldera. “Spire” takes multiplayer combat to a futuristic sub-orbital airport terminal. “Verge,” drops multiplayer combat into the center of a post-Apocalyptic future in this re-imagining of the CALL OF DUTY®: WORLD AT WAR classic, “Banzai.”"
+        },
+        {
+          "id": 4,
+          "description": "• <b>DLC 3: Descent:</b> delivers an all-new mind-bending Zombies experience in “Gorod Krovi,” where Origins characters are hurled into an alternate, war-torn Stalingrad. Experience 4 action-packed multiplayer maps including “Empire,” an authentic Roman villa that re-imagines fan favorite Call of Duty®: Black Ops II classic, “Raid.” “Berserk” drops players into a Viking village frozen in time. “Cryogen” takes combat to an isolated compound that holds some of the world’s most dangerous criminals."
+        },
+        {
+          "id": 5,
+          "description": "• <b>DLC 4: Salvation:</b> includes the thrilling climax of the Zombies Origins saga in “Revelations,” plus four unique multiplayer environments. Gear up for “Outlaw,” a western-style re-imagining of the fan favorite Black Ops 2 classic map, “Standoff.” In “Rupture,” the Call of Duty World at War classic outskirts is re-imagined as a high-tech facility. Face the unknown at “Citadel,” an ancient castle that’s now broken and haunted. Navigate larger-than-life food items and dinnerware on “Micro,” a bite-size battlefield."
+        }
+      ],
+      "disclaimer": "<i>© 2017 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, and stylized roman numeral III are trademarks of Activision Publishing, Inc.</i>"
+    },
+    {
+      "id": 20,
+      "slug": "tony-hawks-pro-skater-5",
+      "name": "TONY HAWK'S™ PRO SKATER™ 5",
+      "released": "09-29-2015",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/9FsgNnWQ/thps5-boxart.jpg",
+      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-5/thps5-hero.jpg",
+      "titleImg": "https://i.postimg.cc/CKsv5MbR/thps5-logo.png",
+      "platforms": "XBOX 360, XBOX One, PlayStation 3, PlayStation 4",
+      "genre": "Action Sports",
+      "studio": "Robomodo, Disruptive Games, Fun Labs",
+      "type": "TEEN",
+      "rating": "Teen",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/htjmTy0k3-w"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-5/thps5-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-5/thps5-2.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-5/thps5-3.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "A NEW ERA OF SKATING BEGINS!",
+          "id": 1,
+          "description": "/n PS4™ System & Xbox One Description:"
+        },
+        {
+          "id": 2,
+          "description": "Tony Hawk’s’ Pro Skater™ 5 offers a fresh take on combo-driven skateboarding, the most advanced Pro Skater online multiplayer experience, and a state-of-the-art skatepark builder. Ride, build, and repeat!"
+        },
+        {
+          "id": 3,
+          "description": "<h1><b>CLASSIC TONY HAWK’S® PRO SKATER™ GAMEPLAY</b></h1>"
+        },
+        {
+          "id": 4,
+          "description": "• Pull off signature Pro Skater moves and extended trick combinations."
+        },
+        {
+          "id": 5,
+          "description": "<h1><b>SEAMLESS ONLINE MULTIPLAYER</b></h1>"
+        },
+        {
+          "id": 6,
+          "description": "• Shred online with 20 players at once."
+        },
+        {
+          "id": 7,
+          "description": "<h1><b>PLAY AS A PRO OR CREATE-A-SKATER</b></h1>"
+        },
+        {
+          "id": 8,
+          "description": "• Play as one of 10 pros, including Tony Hawk, Nyjah Huston, and Aaron “Jaws” Homoki, each with their own tricks, or personalize a skater unique to your style."
+        },
+        {
+          "id": 9,
+          "description": "<h1><b>ENDLESS SHRED SESSIONS</b></h1>"
+        },
+        {
+          "id": 10,
+          "description": "• Jump in and out of over 80 unique missions across 8 environments."
+        },
+        {
+          "id": 11,
+          "description": "<h1><b>IF YOU BUILD IT, THEY WILL SKATE</b></h1>"
+        },
+        {
+          "id": 12,
+          "description": "• Create and share the sickest skateparks using over 250 obstacles and let loose on the most twisted designs from the community."
+        },
+        {
+          "id": 13,
+          "description": "<h3><b>PS3™ System & Xbox 360 Description:</b></h3>"
+        },
+        {
+          "id": 14,
+          "description": "Tony Hawk’s® Pro Skater™ 5 offers an epic mix of classic THPS action with combo-driven skateboarding and a state-of-the-art skatepark builder. Ride, build, and repeat!"
+        },
+        {
+          "id": 15,
+          "description": "<h1><b>CLASSIC TONY HAWK’S® PRO SKATER™ GAMEPLAY</b></h1>"
+        },
+        {
+          "id": 16,
+          "description": "• Pull off signature Pro Skater moves and extended trick combinations."
+        },
+        {
+          "id": 17,
+          "description": "<h1><b>PLAY AS A PRO OR CREATE-A-SKATER</b></h1>"
+        },
+        {
+          "id": 18,
+          "description": "• Play as one of 10 pros, including Tony Hawk, Nyjah Huston, and Aaron “Jaws” Homoki, each with their own tricks, or personalize a skater unique to your style."
+        },
+        {
+          "id": 19,
+          "description": "<h1><b>ENDLESS SHRED SESSIONS</b></h1>"
+        },
+        {
+          "id": 20,
+          "description": "• Jump in and out of over 80 unique missions across 8 environments."
+        },
+        {
+          "id": 21,
+          "description": "<h1><b>IF YOU BUILD IT, THEY WILL SKATE</b></h1>"
+        },
+        {
+          "id": 22,
+          "description": "• Create the sickest skateparks using over 250 obstacles or personalize existing parks in the course creator to add your own style."
+        }
+      ],
+      "disclaimer": "TONY HAWK IS A REGISTERED TRADEMARK OF TONY HAWK, INC. Game ©2017 Activision Publishing, Inc. ACTIVISION is a registered trademark and PRO SKATER is a trademark of Activision Publishing, Inc. All rights reserved. Opening the game box and using the software constitutes acceptance of the Software License Agreement available at support.activision.com/license. “PlayStation”, the “PS” Family logo and “PS3” are registered trademarks. “PS4” is a trademark of Sony Computer Entertainment Inc. The ESRB rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners."
+    },
+    {
+      "id": 21,
+      "slug": "skylanders-superchargers",
+      "name": "SKYLANDERS SUPERCHARGERS",
+      "released": "09-20-2015",
+      "tba": "false",
+      "bg-game-cover": "https://i.postimg.cc/7ZG3jHKF/superchargers-boxart.png",
+      "bg-game-banner": "https://i.postimg.cc/VNXjL7Q4/superchargers-hero.jpg",
+      "titleImg": "https://i.postimg.cc/xCYLkK9Q/skylanders-superchargers.png",
+      "platforms": "XBOX 360, XBOX One, PlayStation 3, PlayStation 4, Wii, Wii U, Nintendo 3DS",
+      "genre": "Action / Adventure",
+      "studio": "Vicarious Visions, Beenox",
+      "type": "EVERYONE 10+",
+      "rating": "Everyone-10",
+      "video": [ 
+        { 
+          "id": 1, 
+          "video1": "https://youtu.be/RrI51I-zuuk"
+          }
+        ],
+      "screenshots": [
+        {
+          "id": 1,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/skylanders/super-chargers/superchargers-6.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/skylanders/super-chargers/superchargers-7.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/skylanders/super-chargers/superchargers-8.jpg"
+        }
+      ],
+      "description": [
+        {
+          "heading": "A NEW ERA OF SKATING BEGINS!",
+          "id": 1,
+          "description": "Skylands is in peril! Kaos has unleashed his most evil weapon yet – the Doomstation of Ultimate Doomstruction. With all of Skylands on the verge of collapse, a special team called the SuperChargers has been assembled to pilot an unstoppable fleet of incredible vehicles. Now you and the SuperChargers must embark on epic adventures over land, under sea, and through the sky to stop Kaos and save Skylands!"
+        }
+      ],
+      "disclaimer": "© 2017 Activision Publishing, Inc. ACTIVISION, SKYLANDERS, and SKYLANDERS SUPERCHARGERS are trademarks of Activision Publishing, Inc."
     }
   ],
   "Trending": [
