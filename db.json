@@ -6,8 +6,9 @@
       "name": "CALL OF DUTY MODERN WARFARE III",
       "released": "11-10-2023",
       "tba": "false",
-      "bg_game_cover": "https://store-images.s-microsoft.com/image/apps.35931.13519812510018364.92731e53-cab3-4df2-bd66-5285f516cb31.9505edd3-27da-4bed-96d9-7fc9a08f24d0",
-      "bg_game_banner": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw3/home/hero/jpt-hero-desktop.jpg",
+      "bg_game_cover": "https://i.postimg.cc/Mp9FWpwd/mwiii-boxart.jpg",
+      "bg_game_banner": "https://i.postimg.cc/prM009QX/jpt-playnow-desktop-bg-4.jpg",
+      "titleImg": "https://i.postimg.cc/hv82NSM8/mwiii-horizontal-logo-1.png",
       "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
       "studio": "Sledgehammer Games, Infinity Ward, Treyarch",
@@ -16,7 +17,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/mHDEDDrGYvo"
+          "video": "https://youtu.be/mHDEDDrGYvo"
           }
         ],
       "screenshots": [
@@ -62,8 +63,9 @@
       "name": "CRASH TEAM RUMBLE",
       "released": "6-28-2023",
       "tba": "false",
-      "bg_game_cover": "https://upload.wikimedia.org/wikipedia/en/7/7d/Crash_Team_Rumble_cover_art.jpg?20221211000132",
+      "bg_game_cover": "https://i.postimg.cc/x1ptwpGZ/CTRumble-KEYART-SEASON2-1080-X1350-AVAILABLE-NOW.jpg",
       "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/crash-team-rumble/crash-team-rumble-hero.jpg",
+      "titleImg": "https://i.postimg.cc/V6ngbfyy/crash-team-rumble-logo-2.png",
       "platforms": "PlayStation 5, XBOX Series X",
       "genre": "Platformer",
       "studio": "Toys for Bob",
@@ -72,7 +74,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=becrLd9GOB4"
+          "video": "https://www.youtube.com/watch?v=becrLd9GOB4"
           }
         ],
       "screenshots": [
@@ -114,8 +116,9 @@
       "name": "CALL OF DUTY®: MODERN WAREFARE II",
       "released": "10-28-2022",
       "tba": "false",
-      "bg_game_cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Call_of_Duty_Modern_Warfare_II_Key_Art.jpg/220px-Call_of_Duty_Modern_Warfare_II_Key_Art.jpg",
+      "bg_game_cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-boxart.jpeg",
       "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-hero.jpg",
+      "titleImg": "https://i.postimg.cc/9FJp9gkf/mw2-logo-1.png",
       "platforms": "PlayStation 5, XBOX Series X, PC",
       "genre": "First Person Shooter",
       "studio": "Infinity Ward",
@@ -124,7 +127,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=ztjfwecrY8E"
+          "video": "https://www.youtube.com/watch?v=ztjfwecrY8E"
           }
         ],
       "screenshots": [
@@ -171,8 +174,9 @@
       "name": "CALL OF DUTY®: VANGUARD",
       "released": "11-05-2021",
       "tba": "false",
-      "bg_game_cover": "https://cdn.mobygames.com/covers/10363047-call-of-duty-vanguard-xbox-one-front-cover.jpg",
-      "bg-game-banner": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9713815d-a982-4c05-b54d-98d1db569761.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "bg_game_cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/vanguard/vanguard-boxart.jpg",
+      "bg-game-banner": "https://i.postimg.cc/gkkyGq0b/vanguard-hero-1.jpg",
+      "titleImg": "https://i.postimg.cc/Qx4QC9B9/vanguard-logo.png",
       "platforms": "PlayStation 5, XBOX Series X, PC",
       "genre": "First Person Shooter",
       "studio": "Sledgehammer Games, Treyarch, Raven,High Moon, Beenox",
@@ -181,11 +185,11 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=OQ1CwPhE8KQ"
+          "video": "https://www.youtube.com/watch?v=OQ1CwPhE8KQ"
           }, 
           {
         "id": 2, 
-        "video2": "https://www.youtube.com/watch?v=xYUMA6NVy4g"
+        "video": "https://www.youtube.com/watch?v=xYUMA6NVy4g"
           }
         ],
       "screenshots": [
@@ -232,8 +236,9 @@
       "name": "CALL OF DUTY®: BLACK OPS COLD WAR",
       "released": "11-13-2020",
       "tba": "false",
-      "bg_game_cover": "https://image.api.playstation.com/vulcan/img/rnd/202111/2000/vDTX1PFjQfaEuC6LxpiFrljo.png",
-      "bg_game_banner": "https://images.squarespace-cdn.com/content/55ef0e29e4b099e22cdc9eea/1597993928700-KCV4KFK5U89O4OFOTDSM/cod-cold-war-banner.jpg?content-type=image%2Fjpeg",
+      "bg_game_cover": "https://i.postimg.cc/NFNHKS0q/hero-key-art-zeus-mobile.jpg",
+      "bg_game_banner": "https://i.postimg.cc/8zf6CyQ9/hero-key-art-zeus-desktop.jpg",
+      "titleImg": "https://i.postimg.cc/769CRd0G/hero-logo.png",
       "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
       "studio": "Treyarch, Raven, High Moon, Beenox",
@@ -242,11 +247,11 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=aTS9n_m7TW0"
+          "video": "https://www.youtube.com/watch?v=aTS9n_m7TW0"
           }, 
           {
         "id": 2, 
-        "video2": "https://www.youtube.com/watch?v=ZQGXZ5auE2g"
+        "video": "https://www.youtube.com/watch?v=ZQGXZ5auE2g"
           }
         ],
       "screenshots": [
@@ -294,8 +299,9 @@
       "name": "CRASH BANDICOOT™ 4: IT'S ABOUT TIME",
       "released": "10-02-2020",
       "tba": "false",
-      "bg_game_cover": "https://store-images.s-microsoft.com/image/apps.44037.14289021587791584.b9937e17-71a6-4b7c-9b62-a2203c893d9c.8aa52a71-f9d0-4eeb-893c-7dac7774cc9f?w=400&h=600",
-      "bg_game_banner": "https://xxboxnews.blob.core.windows.net/prod/sites/2/2020/06/Crash-4_Reveal_X1_Social_Banner_1920x1080_JPG.jpg",
+      "bg_game_cover": "https://i.postimg.cc/sDvBnnXx/crash4-boxart.jpg",
+      "bg_game_banner": "https://i.postimg.cc/Pr9C0mp4/crash4-hero-1.jpg",
+      "titleImg": "https://i.postimg.cc/vZn4yc5d/crash4-logo.png",
       "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC, Nintendo Switch",
       "genre": "Platformer",
       "studio": "Toys for Bob, Beenox",
@@ -304,7 +310,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=U1qGQqOkZI8"
+          "video": "https://www.youtube.com/watch?v=U1qGQqOkZI8"
           }
         ],
       "screenshots": [
@@ -336,8 +342,9 @@
       "name": "TONY HAWK'S™ PRO SKATER™ 1 + 2",
       "released": "09-04-2020",
       "tba": "false",
-      "bg_game_cover": "https://cdn.mobygames.com/covers/9527527-tony-hawks-pro-skater-1-2-playstation-4-front-cover.jpg",
-      "bg_game_banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/header.jpg?t=1696374771",
+      "bg_game_cover": "https://i.postimg.cc/j5M5cNYy/thps-1-2-boxart.png",
+      "bg_game_banner": "https://i.postimg.cc/cCjJySHH/thps-1-2-hero-2.jpg",
+      "titleImg": "https://i.postimg.cc/kX64NB1t/thps-1-2-logo-1.png",
       "platforms": "PlayStation 5, XBOX Series X, XBOX One, PlayStation 4, PC, Nintendo, Steam",
       "genre": "Action Sports",
       "studio": "Vicarious Visions, n-Space",
@@ -345,7 +352,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://www.youtube.com/watch?v=4paYDD0WIVY"
+          "video": "https://www.youtube.com/watch?v=4paYDD0WIVY"
           }
         ],
       "screenshots": [
