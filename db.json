@@ -746,8 +746,8 @@
       "name": "CALL OF DUTY®: WWIII",
       "released": "11-03-2017",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/3wgZx6rw/wwii-boxart.jpg",
-      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/wwii/wwii-hero.jpg",
+      "bg_game_cover": "https://i.postimg.cc/3wgZx6rw/wwii-boxart.jpg",
+      "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/wwii/wwii-hero.jpg",
       "titleImg": "https://i.postimg.cc/bJp9DTd9/cod-wwii-logo.png",
       "platforms": "XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
@@ -757,7 +757,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/D4Q_XYVescc"
+          "video": "https://youtu.be/D4Q_XYVescc"
           }
         ],
       "screenshots": [
@@ -784,13 +784,13 @@
       "disclaimer": "© 2018 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and CALL OF DUTY WWII are trademarks of Activision Publishing, Inc."
     },
     {
-      "id": 15,
+      "id": 16,
       "slug": "crash-bandicoot-n-sane-trilogy",
       "name": "CRASH BANDICOOT N. SANE TRILOGY",
       "released": "06-30-2017",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/NF4Xhqx3/crash-nsane-trilogy-boxart.jpg",
-      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/nsane-trilogy/nsane-trilogy-banner.webp",
+      "bg_game_cover": "https://i.postimg.cc/NF4Xhqx3/crash-nsane-trilogy-boxart.jpg",
+      "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/nsane-trilogy/nsane-trilogy-banner.webp",
       "titleImg": "https://i.postimg.cc/g0Z6z6Dq/crash-nsane-trilogy-logo.png",
       "platforms": "XBOX One, PlayStation 4, PC, Nintendo Switch",
       "genre": "Action / Adventure",
@@ -800,7 +800,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/4fbO2-egZ3U"
+          "video": "https://youtu.be/4fbO2-egZ3U"
           }
         ],
       "screenshots": [
@@ -843,13 +843,13 @@
       "disclaimer": "<i>© 2020 Activision Publishing, Inc. ACTIVISION and CRASH BANDICOOT are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners.</i>"
     },
     {
-      "id": 16,
+      "id": 17,
       "slug": "call-of-duty-inifinite-warefare",
       "name": "CALL OF DUTY®: INFINITE WAREFARE",
       "released": "11-04-2016",
       "tba": "false",
-      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/infinite-warfare/iw-boxart.jpg",
-      "bg-game-banner": "https://i.postimg.cc/XqpGpHSh/iw-hero.jpg",
+      "bg_game_cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/infinite-warfare/iw-boxart.jpg",
+      "bg_game_banner": "https://i.postimg.cc/XqpGpHSh/iw-hero.jpg",
       "titleImg": "https://i.postimg.cc/k4jRMrZK/iw-logo.png",
       "platforms": "XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
@@ -859,7 +859,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/EeF3UTkCoxY"
+          "video": "https://youtu.be/EeF3UTkCoxY"
           }
         ],
       "screenshots": [
@@ -910,13 +910,13 @@
       "disclaimer": "<i>© 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY ADVANCED WARFARE, CALL OF DUTY MODERN WARFARE, and CALL OF DUTY INFINITE WARFARE are trademarks of Activision Publishing, Inc.</i>"
     },
     {
-      "id": 17,
+      "id": 18,
       "slug": "call-of-duty-modern-warefare-remastered",
       "name": "CALL OF DUTY®: MODERN WAREFARE REMASTERED",
       "released": "11-04-2016",
       "tba": "false",
-      "bg-game-cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/mwr-boxart.jpg",
-      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/mwr-hero.jpg",
+      "bg_game_cover": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/mwr-boxart.jpg",
+      "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/mwr-hero.jpg",
       "titleImg": "https://i.postimg.cc/sDKjtPkG/mwr-logo.png",
       "platforms": "XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
@@ -926,7 +926,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/l-eMi1xJ2dM"
+          "video": "https://youtu.be/l-eMi1xJ2dM"
           }
         ],
       "screenshots": [
@@ -965,13 +965,13 @@
       "disclaimer": "<i>© 2017 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY ADVANCED WARFARE, CALL OF DUTY MODERN WARFARE, and CALL OF DUTY INFINITE WARFARE are trademarks of Activision Publishing, Inc.</i>"
     },
     {
-      "id": 18,
+      "id": 19,
       "slug": "skylanders-imaginators",
       "name": "SKYLANDERS-IMAGINATORS",
       "released": "10-16-2016",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/C14Xz7Hj/skylanders-imaginators-boxart.jpg",
-      "bg-game-banner": "https://i.postimg.cc/RhsYT0Yh/imaginators-hero.jpg",
+      "bg_game_cover": "https://i.postimg.cc/C14Xz7Hj/skylanders-imaginators-boxart.jpg",
+      "bg_game_banner": "https://i.postimg.cc/RhsYT0Yh/imaginators-hero.jpg",
       "titleImg": "https://i.postimg.cc/y6v2KfNK/skylanders-imaginators-logo.png",
       "platforms": "XBOX 360, XBOX One, PlayStation 3, PlayStation 4, Wii U, Nintendo Switch",
       "genre": "Action / Adventure",
@@ -981,7 +981,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/8RsVPm4Hby0"
+          "video": "https://youtu.be/8RsVPm4Hby0"
           }
         ],
       "screenshots": [
@@ -1060,13 +1060,13 @@
       "disclaimer": "© 2022 Activision Publishing, Inc. ACTIVISION, SKYLANDERS, and SKYLANDERS IMAGINATORS are trademarks of Activision Publishing, Inc."
     },
     {
-      "id": 19,
+      "id": 20,
       "slug": "call-of-duty-black-opsiii",
       "name": "CALL OF DUTY®: BLACK OPS III",
       "released": "11-06-2015",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/v8tQy51y/bo3-boxart.png",
-      "bg-game-banner": "https://i.postimg.cc/zXd8b5SP/bo3-hero.jpg",
+      "bg_game_cover": "https://i.postimg.cc/v8tQy51y/bo3-boxart.png",
+      "bg_game_banner": "https://i.postimg.cc/zXd8b5SP/bo3-hero.jpg",
       "titleImg": "https://i.postimg.cc/vZcM5j08/bo3-logo.png",
       "platforms": "XBOX One, PlayStation 4, PC",
       "genre": "First Person Shooter",
@@ -1076,7 +1076,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/vIg5dAeudvQ"
+          "video": "https://youtu.be/vIg5dAeudvQ"
           }
         ],
       "screenshots": [
@@ -1119,13 +1119,13 @@
       "disclaimer": "<i>© 2017 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, and stylized roman numeral III are trademarks of Activision Publishing, Inc.</i>"
     },
     {
-      "id": 20,
+      "id": 21,
       "slug": "tony-hawks-pro-skater-5",
       "name": "TONY HAWK'S™ PRO SKATER™ 5",
       "released": "09-29-2015",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/9FsgNnWQ/thps5-boxart.jpg",
-      "bg-game-banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-5/thps5-hero.jpg",
+      "bg_game_cover": "https://i.postimg.cc/9FsgNnWQ/thps5-boxart.jpg",
+      "bg_game_banner": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/tony-hawk/tony-hawk-pro-skater-5/thps5-hero.jpg",
       "titleImg": "https://i.postimg.cc/CKsv5MbR/thps5-logo.png",
       "platforms": "XBOX 360, XBOX One, PlayStation 3, PlayStation 4",
       "genre": "Action Sports",
@@ -1135,7 +1135,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/htjmTy0k3-w"
+          "video": "https://youtu.be/htjmTy0k3-w"
           }
         ],
       "screenshots": [
@@ -1246,13 +1246,13 @@
       "disclaimer": "TONY HAWK IS A REGISTERED TRADEMARK OF TONY HAWK, INC. Game ©2017 Activision Publishing, Inc. ACTIVISION is a registered trademark and PRO SKATER is a trademark of Activision Publishing, Inc. All rights reserved. Opening the game box and using the software constitutes acceptance of the Software License Agreement available at support.activision.com/license. “PlayStation”, the “PS” Family logo and “PS3” are registered trademarks. “PS4” is a trademark of Sony Computer Entertainment Inc. The ESRB rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners."
     },
     {
-      "id": 21,
+      "id": 22,
       "slug": "skylanders-superchargers",
       "name": "SKYLANDERS SUPERCHARGERS",
       "released": "09-20-2015",
       "tba": "false",
-      "bg-game-cover": "https://i.postimg.cc/7ZG3jHKF/superchargers-boxart.png",
-      "bg-game-banner": "https://i.postimg.cc/VNXjL7Q4/superchargers-hero.jpg",
+      "bg_game_cover": "https://i.postimg.cc/7ZG3jHKF/superchargers-boxart.png",
+      "bg_game_banner": "https://i.postimg.cc/VNXjL7Q4/superchargers-hero.jpg",
       "titleImg": "https://i.postimg.cc/xCYLkK9Q/skylanders-superchargers.png",
       "platforms": "XBOX 360, XBOX One, PlayStation 3, PlayStation 4, Wii, Wii U, Nintendo 3DS",
       "genre": "Action / Adventure",
@@ -1262,7 +1262,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video1": "https://youtu.be/RrI51I-zuuk"
+          "video": "https://youtu.be/RrI51I-zuuk"
           }
         ],
       "screenshots": [
