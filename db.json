@@ -856,7 +856,7 @@
         },
         {
           "id": 3,
-          "description": "• <span><strong>Crash Bandicoot</strong>  Dr. Neo Cortex has a plan to take over the world, and he wants to create genetically engineered animals to do his bidding. Only you can help Crash save the animals, save his girlfriend, and foil Dr. Cortex’s plot.</span>"
+          "description": "• <p className='span'><strong>Crash Bandicoot</strong>  Dr. Neo Cortex has a plan to take over the world, and he wants to create genetically engineered animals to do his bidding. Only you can help Crash save the animals, save his girlfriend, and foil Dr. Cortex’s plot.</p>"
         },
         {
           "id": 4,
