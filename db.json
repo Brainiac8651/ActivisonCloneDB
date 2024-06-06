@@ -316,7 +316,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=U1qGQqOkZI8"
+          "video": "U1qGQqOkZI8"
           }
         ],
       "screenshots": [
@@ -337,8 +337,11 @@
         {
           "id": 1,
           "heading": "IT'S ABOUT TIME!",
-          "description": "LITERALLY.",
-          "extra-text": "THE DEVIOUS VILLAINS NEO CORTEX AND DR. N. TROPY HAVE FINALLY ESCAPED THEIR INTERDIMENSIONAL PRISON, LEAVING AN EVIL SCIENTIST SIZED HOLE IN THE UNIVERSE. NOW THEY’VE GOT THEIR EYES SET ON NOT ONLY SIMPLY CONQUERING THIS DIMENSION, BUT ALL DIMENSIONS, AND IT’S UP TO CRASH AND COCO TO SAVE THE DAY. N. SANITY BEACH IS WHERE CRASH’S ADVENTURE FIRST STARTED, AND WHERE IT BEGINS IN CRASH 4. BUT THERE HAVE DEFINITELY BEEN CHANGES SINCE PLAYERS FIRST SAW N. SANITY BEACH ALL THOSE YEARS AGO, AND THROUGHOUT CRASH 4 YOU’LL NOTICE CHANGES TO GAMEPLAY AND EVEN THE ART STYLE."
+          "description": "LITERALLY."
+        },
+        {
+          "id": 2,
+          "description": "THE DEVIOUS VILLAINS NEO CORTEX AND DR. N. TROPY HAVE FINALLY ESCAPED THEIR INTERDIMENSIONAL PRISON, LEAVING AN EVIL SCIENTIST SIZED HOLE IN THE UNIVERSE. NOW THEY’VE GOT THEIR EYES SET ON NOT ONLY SIMPLY CONQUERING THIS DIMENSION, BUT ALL DIMENSIONS, AND IT’S UP TO CRASH AND COCO TO SAVE THE DAY. N. SANITY BEACH IS WHERE CRASH’S ADVENTURE FIRST STARTED, AND WHERE IT BEGINS IN CRASH 4. BUT THERE HAVE DEFINITELY BEEN CHANGES SINCE PLAYERS FIRST SAW N. SANITY BEACH ALL THOSE YEARS AGO, AND THROUGHOUT CRASH 4 YOU’LL NOTICE CHANGES TO GAMEPLAY AND EVEN THE ART STYLE."
         }
       ]
     },
@@ -359,7 +362,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=4paYDD0WIVY"
+          "video": "4paYDD0WIVY"
           }
         ],
       "screenshots": [
@@ -401,7 +404,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+          "video": "0E44DClsX5Q"
           }
         ],
         "description": [
@@ -444,7 +447,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=bH1lHCirCGI"
+          "video": "bH1lHCirCGI"
           }
         ],
       "screenshots": [
@@ -461,13 +464,16 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare/mw-screenshot-3.jpg"
         }
       ],
+      "heading": "“PREPARE TO GO DARK, MODERN WARFARE® IS BACK!”",
       "description": [
         {
-          "heading": "“PREPARE TO GO DARK, MODERN WARFARE® IS BACK!”",
           "id": 1,
           "title": "Drop In",
-          "description": "The stakes have never been higher as players take on the role of lethal Tier One operators in a heart-racing saga that will affect the global balance of power. Call of Duty®: Modern Warfare® engulfs fans in an incredibly raw, gritty, provocative narrative that brings unrivaled intensity and shines a light on the changing nature of modern war. Developed by the studio that started it all, Infinity Ward delivers an epic reimagining of the iconic Modern Warfare® series from the ground up. In the visceral and dramatic single-player story campaign, Call of Duty: Modern Warfare pushes boundaries and breaks rules the way only Modern Warfare can.",
-          "extra-text": "Players will engage in breathtaking covert operations alongside a diverse cast of international special forces and freedom fighters throughout iconic European cities and volatile expanses of the Middle East. And the story doesn't end there. In Call of Duty: Modern Warfare, players will be thrust into an immersive narrative spanning the entire game. Experience the ultimate online playground with classic multiplayer, or squad-up and play cooperatively in a collection of elite operations accessible to all skill levels."
+          "description": "The stakes have never been higher as players take on the role of lethal Tier One operators in a heart-racing saga that will affect the global balance of power. Call of Duty®: Modern Warfare® engulfs fans in an incredibly raw, gritty, provocative narrative that brings unrivaled intensity and shines a light on the changing nature of modern war. Developed by the studio that started it all, Infinity Ward delivers an epic reimagining of the iconic Modern Warfare® series from the ground up. In the visceral and dramatic single-player story campaign, Call of Duty: Modern Warfare pushes boundaries and breaks rules the way only Modern Warfare can."
+        },
+        {
+          "id": 2,
+          "description": "Players will engage in breathtaking covert operations alongside a diverse cast of international special forces and freedom fighters throughout iconic European cities and volatile expanses of the Middle East. And the story doesn't end there. In Call of Duty: Modern Warfare, players will be thrust into an immersive narrative spanning the entire game. Experience the ultimate online playground with classic multiplayer, or squad-up and play cooperatively in a collection of elite operations accessible to all skill levels."
         }
       ]
     },
@@ -488,7 +494,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=n4b8FRUDNZo"
+          "video": "n4b8FRUDNZo"
           }
         ],
       "screenshots": [
@@ -505,9 +511,9 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/cod-mobile-3.jpg"
         }
       ],
+      "heading": "“ANSWER THE CALL OF DUTY®”",
       "description": [
         {
-          "heading": "“ANSWER THE CALL OF DUTY®”",
           "id": 1,
           "description": "Official CALL OF DUTY® designed exclusively for mobile phones. Play iconic multiplayer maps and modes anytime, anywhere. 100 player Battle Royale battleground? Fast 5v5 team deathmatch? Scary Zombies action? Sniper vs sniper battle? Activision’s free-to-play CALL OF DUTY®: MOBILE has it all."
         },
@@ -534,8 +540,11 @@
         {
           "id": 6,
           "title": "CHOICE AND COMPLEXITY",
-          "description": "Whether in gameplay, events, controls, or loadouts, CALL OF DUTY®: MOBILE offers complexity and depth in an ever-changing experience.",
-          "extra-text": "Have what it takes to compete with the best? Download CALL OF DUTY®: MOBILE now!"
+          "description": "Whether in gameplay, events, controls, or loadouts, CALL OF DUTY®: MOBILE offers complexity and depth in an ever-changing experience."
+        },
+        {
+          "id": 7,
+          "description": "Have what it takes to compete with the best? Download CALL OF DUTY®: MOBILE now!"
         }
       ],
       "notice": "Note: An internet connection is required to play this game.",
@@ -558,7 +567,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://youtu.be/WgwA1gYDb5Q"
+          "video": "WgwA1gYDb5Q"
           }
         ],
       "screenshots": [
@@ -575,9 +584,9 @@
           "image": "https://www.activision.com/content/dam/atvi/Crash/crash-touchui/ctr/gallery-assets/Screenshot-3.jpg"
         }
       ],
+      "heading": "CRASH IS BACK IN THE DRIVER'S SEAT!",
       "description": [
         {
-          "heading": "CRASH IS BACK IN THE DRIVER'S SEAT!",
           "id": 1,
           "description": "Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:"
         },
@@ -595,11 +604,11 @@
         },
         {
           "id": 5,
-          "title": "GRAND PRIX FEATURES:"
+          "title": "<i>GRAND PRIX FEATURES:</i>"
         }
       ],
-      "notice": "Bonus seasonal content including new tracks, characters, items, and challenges.",
-      "disclaimer": "© 2020 Activision Publishing Inc. ACTIVISION, CRASH TEAM RACING, CTR, CRASH BANDICOOT and CRASH are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners."
+      "notice": "<i>Bonus seasonal content including new tracks, characters, items, and challenges.</i>",
+      "disclaimer": "<i>© 2020 Activision Publishing Inc. ACTIVISION, CRASH TEAM RACING, CTR, CRASH BANDICOOT and CRASH are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners.</i>"
     },
     {
       "id": 12,
@@ -618,7 +627,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=rXMX4YJ7Lks"
+          "video": "rXMX4YJ7Lks"
           }
         ],
       "screenshots": [
@@ -635,9 +644,9 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/sekiro/shadows-die-twice/sekiro-shadowsdietwice-3.jpg"
         }
       ],
+      "heading": "TAKE REVENGE. RESTORE YOUR HONOR. KILL INGENIOUSLY.",
       "description": [
         {
-          "heading": "TAKE REVENGE. RESTORE YOUR HONOR. KILL INGENIOUSLY.",
           "id": 1,
           "description": "In Sekiro: Shadows Die Twice you are the “one-armed wolf”, a disgraced and disfigured warrior rescued from the brink of death. Bound to protect a young lord who is the descendant of an ancient bloodline, you become the target of many vicious enemies, including the dangerous Ashina clan. When the young lord is captured, nothing will stop you on a perilous quest to regain your honor, not even death itself."
         },
@@ -646,7 +655,7 @@
           "description": "Explore late 1500s Sengoku Japan, a brutal period of constant life and death conflict, as you come face to face with larger than life foes in a dark and twisted world. Unleash an arsenal of deadly prosthetic tools and powerful ninja abilities while you blend stealth, vertical traversal, and visceral head to head combat in a bloody confrontation. Take Revenge. Restore your honor. Kill Ingeniously."
         }
       ],
-      "disclaimer": "©2020 FromSoftware, Inc. All rights reserved. Published and distributed by Activision. ACTIVISION is a trademark of Activision Publishing Inc. All other trademarks and trade names are the properties of their respective owners. Bloodborne is a trademark of Sony Interactive Entertainment LLC. Dark Souls is a trademark of BANDAI NAMCO Entertainment Inc. Sony and Bandai Namco are not the publisher of SEKIRO: SHADOWS DIE TWICE. Activision has no affiliation with Bloodborne or Dark Souls."
+      "disclaimer": "<i>©2020 FromSoftware, Inc. All rights reserved. Published and distributed by Activision. ACTIVISION is a trademark of Activision Publishing Inc. All other trademarks and trade names are the properties of their respective owners. Bloodborne is a trademark of Sony Interactive Entertainment LLC. Dark Souls is a trademark of BANDAI NAMCO Entertainment Inc. Sony and Bandai Namco are not the publisher of SEKIRO: SHADOWS DIE TWICE. Activision has no affiliation with Bloodborne or Dark Souls.</i>"
     },
     {
       "id": 13,
