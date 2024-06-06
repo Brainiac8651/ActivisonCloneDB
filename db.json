@@ -74,7 +74,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=becrLd9GOB4"
+          "video": "nDHbh-rlKu4"
           }
         ],
       "screenshots": [
@@ -127,7 +127,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=ztjfwecrY8E"
+          "video": "L5Tee_UjMEk"
           }
         ],
       "screenshots": [
@@ -144,10 +144,10 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-screenshot-3.jpg"
         }
       ],
+      "heading": "THE ULTIMATE WEAPON IS TEAM",
       "description": [
         {
           "id": 1,
-          "title": "THE ULTIMATE WEAPON IS TEAM",
           "description": "New gameplay innovations. All-new gun handling. Advanced AI. Modern Warfare® II brings you a global campaign, immersive multiplayer combat and narrative-driven Special Ops."
         },
         {
@@ -163,8 +163,8 @@
         {
           "id": 4,
           "title": "LAUNCH CONTENT",
-          "description": "Modern Warfare: II will launch with a globe-trotting single-player campaign, immersive Multiplayer combat and a narrative-driven, co-op Special Ops experience.​",
-          "extra-text": "Modern Warfare II connects with the new Warzone™ experience, and with it, the evolution in Battle Royale with a brand-new play space and sandbox mode. Expect a massive calendar of free content post-launch featuring evolving gameplay with new maps, modes, seasonal events, community celebrations and more."
+          "description": "<i>Modern Warfare: II</i> will launch with a globe-trotting single-player campaign, immersive Multiplayer combat and a narrative-driven, co-op Special Ops experience.​",
+          "extra-text": "<i>Modern Warfare II</i> connects with the new Warzone™ experience, and with it, the evolution in Battle Royale with a brand-new play space and sandbox mode. Expect a massive calendar of free content post-launch featuring evolving gameplay with new maps, modes, seasonal events, community celebrations and more."
         }
       ]
     },
@@ -185,11 +185,11 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=OQ1CwPhE8KQ"
+          "video": "OQ1CwPhE8KQ"
           }, 
           {
         "id": 2, 
-        "video": "https://www.youtube.com/watch?v=xYUMA6NVy4g"
+        "video": "xYUMA6NVy4g"
           }
         ],
       "screenshots": [
@@ -206,17 +206,17 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/vanguard/vanguard-screenshot-3.png"
         }
       ],
+      "heading": "RISE ON EVERY FRONT",
       "description": [
         {
           "id": 1,
-          "heading": "RISE ON EVERY FRONT",
           "title": "CAMPAIGN",
-          "description": "The award-winning Call of Duty® series returns with Call of Duty®: Vanguard, in which players will experience influential battles of World War II as they fight for victory across the Eastern and Western Fronts of Europe, the Pacific, and North Africa.  "
+          "description": "The award-winning <i>Call of Duty®</i> series returns with <i>Call of Duty®: Vanguard,</i> in which players will experience influential battles of World War II as they fight for victory across the Eastern and Western Fronts of Europe, the Pacific, and North Africa.  "
         },
         {
           "id": 2,
           "title": "MULTIPLAYER",
-          "description": "Create and cement your legacy as Call of Duty’s signature Multiplayer experience launches an all-out assault on all fronts. Witness the rise of the Special Forces as players drop into new locales with authentic World War II loadouts."
+          "description": "Create and cement your legacy as <i>Call of Duty’s</i> signature Multiplayer experience launches an all-out assault on all fronts. Witness the rise of the Special Forces as players drop into new locales with authentic World War II loadouts."
         },
         {
           "id": 3,
@@ -226,7 +226,7 @@
         {
           "id": 4,
           "title": "WARZONE™",
-          "description": "all of Duty®: Vanguard will usher in a new and unparalleled Call of Duty®: Warzone™ integration post launch."
+          "description": "<i>Call of Duty®: Vanguard</i> will usher in a new and unparalleled <i>Call of Duty®: Warzone™</i> integration post launch."
         }
       ]
     },
@@ -247,11 +247,11 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://www.youtube.com/watch?v=aTS9n_m7TW0"
+          "video": "aTS9n_m7TW0"
           }, 
           {
         "id": 2, 
-        "video": "https://www.youtube.com/watch?v=ZQGXZ5auE2g"
+        "video": "ZQGXZ5auE2g"
           }
         ],
       "screenshots": [
@@ -268,10 +268,10 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/call-of-duty/black-ops-cold-war/season-four/screenshots/03-Black_Knight_Highjacked_WM.png"
         }
       ],
+      "heading": "“KNOW YOUR HISTORY OR BE DOOMED TO REPEAT IT”.",
       "description": [
         {
           "id": 1,
-          "heading": "“KNOW YOUR HISTORY OR BE DOOMED TO REPEAT IT”.",
           "title": "CAMPAIGN",
           "description": "Nothing is ever as it seems, as Raven Software brings a gripping single-player Campaign where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters, and more."
         },
@@ -1298,7 +1298,7 @@
       "bg_poster": "https://i.postimg.cc/5NTN2wJk/jpt-playnow-desktop-bg-3.jpg"
     },
     {
-      "id": 2,
+      "id": 8,
       "title": "call of duty warzone", 
       "type": "MATURE 17+",
       "title_poster": "https://i.postimg.cc/BQB9dH6K/warzone-logo-white-tm-atvi.png",
@@ -1312,21 +1312,21 @@
       "bg_poster": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-2/mw2-hero.jpg"
     },
     {
-      "id": 4,
+      "id": 10,
       "title": "call of duty mobile", 
       "type": "MATURE 17+",
       "title_poster": "https://i.postimg.cc/TwDBQWFh/codm-logo.png",
       "bg_poster": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/codm-hero.jpg"
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "tony hawk's pro skater 1 + 2", 
       "type": "TEEN",
       "title_poster": "https://i.postimg.cc/Y0BZPCBR/thps-1-2-logo.png",
       "bg_poster": "https://i.postimg.cc/2jnPZhnK/thps-1-2-hero.jpg"
     },
     {
-      "id": 6,
+      "id": 2,
       "title": "Crash Team Rumble", 
       "type": "EVERYONE 10+",
       "title_poster": "https://i.postimg.cc/FsZ8PvWb/crash-team-rumble-logo-1.png",
