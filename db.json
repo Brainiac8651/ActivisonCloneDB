@@ -915,15 +915,15 @@
         },
         {
           "id": 3,
-          "description": "•<b>Campaign: </b>Return to the gritty, large-scale war roots of the franchise, while boldly looking ahead."
+          "description": "<ul><li><strong>Campaign: </strong>Return to the gritty, large-scale war roots of the franchise, while boldly looking ahead.</li></ul>"
         },
         {
           "id": 4,
-          "description": "•<b>Multiplayer:</b> Delivers the future of warfare, with many new gameplay innovations."
+          "description": "<ul><li><strong>Multiplayer:</strong> Delivers the future of warfare, with many new gameplay innovations.</li></ul>"
         },
         {
           "id": 5,
-          "description": "•<b>Zombies:</b> A wild ride through a new storyline with unique gameplay features and mechanics."
+          "description": "<ul><li><strong>Zombies:</strong> A wild ride through a new storyline with unique gameplay features and mechanics.</li></ul>"
         },
         {
           "id": 6,
@@ -931,7 +931,7 @@
         },
         {
           "id": 7,
-          "description": "•<b>Sabotage,</b> the first DLC pack for Call of Duty®: Infinite Warfare, includes the next terrifying Zombies installment: Rave in the Redwoods plus four unique multiplayer environments. Play DLC map packs 30 days early on PS4."
+          "description": "<ul><li><strong>Sabotage,</strong> the first DLC pack for Call of Duty®: Infinite Warfare, includes the next terrifying Zombies installment: Rave in the Redwoods plus four unique multiplayer environments. Play DLC map packs 30 days early on PS4.</li></ul>"
         }
       ],
       "disclaimer": "<i>© 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY ADVANCED WARFARE, CALL OF DUTY MODERN WARFARE, and CALL OF DUTY INFINITE WARFARE are trademarks of Activision Publishing, Inc.</i>"
@@ -978,11 +978,11 @@
         },
         {
           "id": 2,
-          "description": "• <b>Campaign:</b> One of the most iconic campaigns of all time includes fan favorite missions such as “All Ghillied Up,” “Charlie Don’t Surf,” and “Crew Expendable.”"
+          "description": "<ul><li><strong>Campaign:</strong> One of the most iconic campaigns of all time includes fan favorite missions such as “All Ghillied Up,” “Charlie Don’t Surf,” and “Crew Expendable.”</li></ul>"
         },
         {
           "id": 3,
-          "description": "• <b>Multiplayer:</b> Team up with friends in customizable, classic multiplayer action on 10 fan favorites maps such as “Crash,” “Backlot,” and “Crossfire.”"
+          "description": "<ul><li><strong>Multiplayer:</strong> Team up with friends in customizable, classic multiplayer action on 10 fan favorites maps such as “Crash,” “Backlot,” and “Crossfire.”</li></ul>"
         }
       ],
       "disclaimer": "<i>© 2017 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY ADVANCED WARFARE, CALL OF DUTY MODERN WARFARE, and CALL OF DUTY INFINITE WARFARE are trademarks of Activision Publishing, Inc.</i>"
