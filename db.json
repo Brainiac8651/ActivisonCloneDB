@@ -1811,5 +1811,43 @@
       "role": "GM. Call of Duty",
       "profile_img": "https://i.postimg.cc/zBD7Fxdp/matt-cox.jpg"
     }
+  ],
+  "Studios": [
+    {
+      "id": 1,
+      "studio_img": "https://i.postimg.cc/kg4SJDj1/logo-treyarch.png"
+    },
+    {
+      "id": 2,
+      "studio_img": "https://i.postimg.cc/85hJKv55/logo-infinityward.png"
+    },
+    {
+      "id": 3,
+      "studio_img": "https://i.postimg.cc/XqLZ3096/logo-highmoon-studios.png"
+    },
+    {
+      "id": 4,
+      "studio_img": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/studios/logo_beenox.png"
+    },
+    {
+      "id": 5,
+      "studio_img": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/studios/logo_sledgehammer.png"
+    },
+    {
+      "id": 6,
+      "studio_img": "https://i.postimg.cc/V6BvBcG0/logo-raven.png"
+    },
+    {
+      "id": 7,
+      "studio_img": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/studios/logo-toysforbob.png"
+    },
+    {
+      "id": 8,
+      "studio_img": "https://i.postimg.cc/m26DSjwj/logo-atvi-shanghai-studio.png"
+    },
+    {
+      "id": 9,
+      "studio_img": "https://i.postimg.cc/VLTft6fH/logo-demonware.png"
+    }
   ]
 }
