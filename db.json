@@ -291,8 +291,11 @@
         {
           "id": 4,
           "title": "WARZONE™",
-          "description": "Black Ops Cold War will support and build on the hit, free-to-play experience Call of Duty: Warzone. Like every off-the-books clandestine operation, expect to uncover more secrets, and experience memorable moments as the Cold War heats up across Verdansk (and beyond) in the months and seasons ahead.",
-          "extra-text": "© 2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, MODERN WARFARE, CALL OF DUTY WARZONE and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+          "description": "Black Ops Cold War will support and build on the hit, free-to-play experience Call of Duty: Warzone. Like every off-the-books clandestine operation, expect to uncover more secrets, and experience memorable moments as the Cold War heats up across Verdansk (and beyond) in the months and seasons ahead."
+        },
+        {
+          "id": 5,
+          "description": "© 2021 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, MODERN WARFARE, CALL OF DUTY WARZONE and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
         }
       ]
     },
