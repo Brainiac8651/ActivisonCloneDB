@@ -1755,5 +1755,61 @@
       "title_poster": "https://i.postimg.cc/FsZ8PvWb/crash-team-rumble-logo-1.png",
       "bg_poster": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/crash-bandicoot/crash-team-rumble/crash-team-rumble-hero.jpg"
     }
+  ],
+  "LeaderShipTeam": [
+    {
+      "id": 1,
+      "name": "Rob Kostich",
+      "role": "President",
+      "profile_img": "https://i.postimg.cc/3wNQfFbr/rob-kostich.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Josh Taub",
+      "role": "Chief Operating Officer",
+      "profile_img": "https://i.postimg.cc/y8FDYsV3/josh-taub.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Suzie Carr",
+      "role": "Chief People Officer",
+      "profile_img": "https://i.postimg.cc/BvptHpPq/suzie-carr.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Terri Durham",
+      "role": "SVP & General Counsel",
+      "profile_img": "https://i.postimg.cc/76Q6QLNd/terri-durham.jpg"
+    },
+    {
+      "id": 5,
+      "name": "David Stohl",
+      "role": "Head of Development, Call of Duty",
+      "profile_img": "https://i.postimg.cc/C1DhJ4zB/dave-stohl.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pat Kelly",
+      "role": "Head of Creative, Call of Duty",
+      "profile_img": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/patt-kelly.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tyler Bahl",
+      "role": "SVP. Head of Marketing",
+      "profile_img": "https://i.postimg.cc/xC9xFfdv/tyler-bahl.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Natasha Tatarchuk",
+      "role": "SVP. Chief Technology Officer",
+      "profile_img": "https://i.postimg.cc/YqTXBf9q/natasha.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Matt Cox",
+      "role": "GM. Call of Duty",
+      "profile_img": "https://i.postimg.cc/zBD7Fxdp/matt-cox.jpg"
+    }
   ]
 }
