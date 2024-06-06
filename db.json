@@ -163,8 +163,11 @@
         {
           "id": 4,
           "title": "LAUNCH CONTENT",
-          "description": "<i>Modern Warfare: II</i> will launch with a globe-trotting single-player campaign, immersive Multiplayer combat and a narrative-driven, co-op Special Ops experience.​",
-          "extra-text": "<i>Modern Warfare II</i> connects with the new Warzone™ experience, and with it, the evolution in Battle Royale with a brand-new play space and sandbox mode. Expect a massive calendar of free content post-launch featuring evolving gameplay with new maps, modes, seasonal events, community celebrations and more."
+          "description": "<i>Modern Warfare: II</i> will launch with a globe-trotting single-player campaign, immersive Multiplayer combat and a narrative-driven, co-op Special Ops experience.​"
+        },
+        {
+          "id": 5,
+          "description": "<i>Modern Warfare II</i>connects with the new Warzone™ experience, and with it, the evolution in Battle Royale with a brand-new play space and sandbox mode. Expect a massive calendar of free content post-launch featuring evolving gameplay with new maps, modes, seasonal events, community celebrations and more."
         }
       ]
     },
