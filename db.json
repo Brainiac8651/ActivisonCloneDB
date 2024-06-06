@@ -468,7 +468,6 @@
       "description": [
         {
           "id": 1,
-          "title": "Drop In",
           "description": "The stakes have never been higher as players take on the role of lethal Tier One operators in a heart-racing saga that will affect the global balance of power. Call of Duty®: Modern Warfare® engulfs fans in an incredibly raw, gritty, provocative narrative that brings unrivaled intensity and shines a light on the changing nature of modern war. Developed by the studio that started it all, Infinity Ward delivers an epic reimagining of the iconic Modern Warfare® series from the ground up. In the visceral and dramatic single-player story campaign, Call of Duty: Modern Warfare pushes boundaries and breaks rules the way only Modern Warfare can."
         },
         {
@@ -674,7 +673,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://youtu.be/xM5xUAuPEM8"
+          "video": "xM5xUAuPEM8"
         }
         ],
       "screenshots": [
@@ -691,14 +690,14 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/spyro/reignited-trilogy/e3/concept-art/Toasty_Vista_Concept_05.jpg"
         }
       ],
+      "heading": "SPYRO'S BACK!",
       "description": [
         {
           "id": 1,
-          "heading": "SPYRO'S BACK!",
           "description": "Meet Spyro, the adorable and mischievous little dragon on a GIGANTIC adventure. Take on an astonishing and completely 3D platform adventure game unlike any other! Take a wonderful journey as you glide, fly, roll, and frolic through fantasy worlds."
         }
       ],
-      "disclaimer": "© 2019 Activision Publishing, Inc. ACTIVISION, SPYRO, SPYRO REIGNITED TRILOGY, SPYRO THE DRAGON, SPYRO 2 RIPTO'S RAGE! and SPYRO YEAR OF THE DRAGON are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners."
+      "disclaimer": "<i>© 2019 Activision Publishing, Inc. ACTIVISION, SPYRO, SPYRO REIGNITED TRILOGY, SPYRO THE DRAGON, SPYRO 2 RIPTO'S RAGE! and SPYRO YEAR OF THE DRAGON are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners.</i>"
     },
     {
       "id": 14,
@@ -717,7 +716,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://youtu.be/6kqe2ICmTxc"
+          "video": "6kqe2ICmTxc"
         }
         ],
       "screenshots": [
@@ -734,10 +733,10 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/black-ops-4/bo4-screenshot-3.jpg"
         }
       ],
+      "heading": "“A COLLISION COURSE BRINGING TOGETHER THE WORLDS OF BLACK OPS IN AN ALL-OUT SURVIVAL AND ELIMINATION EXPERIENCE.”",
       "description": [
         {
           "id": 1,
-          "heading": "“A COLLISION COURSE BRINGING TOGETHER THE WORLDS OF BLACK OPS IN AN ALL-OUT SURVIVAL AND ELIMINATION EXPERIENCE.”",
           "description": "Black Ops is back! Featuring gritty, grounded, fluid Multiplayer combat, the biggest Zombies offering ever with three full undead adventures at launch, and Blackout, where the universe of Black Ops comes to life in one massive battle royale experience featuring the largest map in Call of Duty history, signature Black Ops combat, characters, locations and weapons from the entire Black Ops series. Soldier up for all-out combat – tailor-made for the Black Ops community."
         },
         {
@@ -753,7 +752,7 @@
           "description": "In Blackout, Black Ops comes to life in one massive battle royale experience, combining Black Ops signature combat and the biggest map in Call of Duty history. Play as fan-favorite characters and battle through iconic settings from the Black Ops universe. It’s a collision course bringing together the worlds of Black Ops in an all-out survival and elimination experience featuring weapons; equipment; land, sea, and air vehicles; RC-XDs; traps; and even Zombies in an experience that is uniquely Black Ops."
         }
       ],
-      "disclaimer": " © 2020 Activision Publishing, Inc. ACTIVISION and CALL OF DUTY are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners. By downloading, installing or using this App, you agree to Activision's privacy policy and terms of us, as may be updated by Activision from time to time."
+      "disclaimer": "<i>© 2020 Activision Publishing, Inc. ACTIVISION and CALL OF DUTY are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners. By downloading, installing or using this App, you agree to Activision's privacy policy and terms of us, as may be updated by Activision from time to time.</i>"
     },
     {
       "id": 15,
@@ -772,7 +771,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://youtu.be/D4Q_XYVescc"
+          "video": "D4Q_XYVescc"
           }
         ],
       "screenshots": [
@@ -789,11 +788,24 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/wwii/wwii-screenshot-3.png"
         }
       ],
+      "heading": "“NO SACRIFICE TOO GREAT”",
       "description": [
         {
-          "heading": "“NO SACRIFICE TOO GREAT”",
           "id": 1,
           "description": "Call of Duty® returns to its historical roots with Call of Duty®: World War II, a blockbuster experience from Sledgehammer Games. From the beaches of Normandy to the Hürtgen Forest, experience a dramatic story highlighting some of the most dramatic and iconic moments of World War II as a young soldier who is facing the unforgiving reality of war alongside his brothers in arms."
+        },
+        {
+          "id": 2,
+          "title": "DIGITAL DELUXE EDITION INCLUDES:",
+          "description": "• Base Game"
+        },
+        {
+          "id": 3,
+          "description": "• Season Pass**"
+        },
+        {
+          "id": 4,
+          "description": "• Additional Bouns Content"
         }
       ],
       "disclaimer": "© 2018 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and CALL OF DUTY WWII are trademarks of Activision Publishing, Inc."
@@ -815,7 +827,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://youtu.be/4fbO2-egZ3U"
+          "video": "4fbO2-egZ3U"
           }
         ],
       "screenshots": [
@@ -832,9 +844,9 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/press/assets/crash-bandicoot/n-sane-trilogy/other/screenshots/Crash_FT02_FINAL.jpg"
         }
       ],
+      "heading": "CRASH IS BACK!",
       "description": [
         {
-          "heading": "CRASH IS BACK!",
           "id": 1,
           "description": "Your favorite marsupial, Crash Bandicoot®, is back and he’s enhanced, entranced & ready-to-dance! Now you can experience Crash Brandicoot like never before in fully-remastered HD graphical glory."
         },
@@ -855,7 +867,7 @@
           "description": "•<b>Crash Bandicoot 3: Warped</b> It’s a Whole New Time-Traveling Adventure! All new-style gameplay action – scuba dive, ride a motorcycle, a baby T-Rex, go free-roaming airborne in a plane, and more! More Action. More Fun. More Puzzles and Secret Levels."
         }
       ],
-      "disclaimer": "<i>© 2020 Activision Publishing, Inc. ACTIVISION and CRASH BANDICOOT are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners.</i>"
+      "disclaimer": "© 2020 Activision Publishing, Inc. ACTIVISION and CRASH BANDICOOT are trademarks of Activision Publishing, Inc. The rating icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners."
     },
     {
       "id": 17,
@@ -874,7 +886,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://youtu.be/EeF3UTkCoxY"
+          "video": "EeF3UTkCoxY"
           }
         ],
       "screenshots": [
@@ -891,9 +903,9 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/infinite-warfare/iw-screenshot-3.jpg"
         }
       ],
+      "heading": "EXPERIENCE THE FUTURE OF WARFARE",
       "description": [
         {
-          "heading": "EXPERIENCE THE FUTURE OF WARFARE",
           "id": 1,
           "description": "Call of Duty®: Infinite Warfare returns to the roots of the franchise where large-scale war and cinematic, immersive military storytelling take center stage. Prepare for a gripping war story in which players fight against the Settlement Defense Front to defend our very way of life."
         },
@@ -941,7 +953,7 @@
       "video": [ 
         { 
           "id": 1, 
-          "video": "https://youtu.be/l-eMi1xJ2dM"
+          "video": "l-eMi1xJ2dM"
           }
         ],
       "screenshots": [
@@ -958,22 +970,18 @@
           "image": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/modern-warfare-remastered/cod-modernwarware-remastered-1.jpg"
         }
       ],
+      "heading": "A CLASSIC REMASTERED",
       "description": [
         {
-          "heading": "A CLASSIC REMASTERED",
           "id": 1,
           "description": "One of the most critically acclaimed games in history. Call of Duty®4:Modern Warfare®, is back, remastered in true high-definition, featuring enhanced textures, rendering, high-dynamic range lighting, and much more to bring a new generation experience to fans."
         },
         {
           "id": 2,
-          "description": "Call of Duty®: Infinite Warfare delivers something for every Call of Duty fan with three unique game modes:"
-        },
-        {
-          "id": 3,
           "description": "•<b>Campaign:</b> One of the most iconic campaigns of all time includes fan favorite missions such as “All Ghillied Up,” “Charlie Don’t Surf,” and “Crew Expendable.”"
         },
         {
-          "id": 4,
+          "id": 3,
           "description": "•<b>Multiplayer:</b> Team up with friends in customizable, classic multiplayer action on 10 fan favorites maps such as “Crash,” “Backlot,” and “Crossfire.”"
         }
       ],
